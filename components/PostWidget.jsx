@@ -4,7 +4,7 @@ import moment from 'moment';
 import Link from 'next/link';
 
 import { getRecentPosts, getSimilarPosts } from '../services';
-import {grpahCMSImageLoader} from '../util'
+import {graphCMSImageLoader} from '../util'
 
 const PostWidget = ({ categories, slug }) => {
   const [relatedPosts, setRelatedPosts] = useState([]);
@@ -21,7 +21,7 @@ const PostWidget = ({ categories, slug }) => {
     }
   }, [slug]);
 
-  
+
 
   return (
     <div className='bg-white shadow-lg rounded-lg p-8 pb-12 mb-8'>
@@ -32,7 +32,7 @@ const PostWidget = ({ categories, slug }) => {
         <div key={index} className='flex items-center w-full mb-4'>
           <div className='w-16 flex-none'>
             <Image
-              loader={grpahCMSImageLoader}
+              loader={graphCMSImageLoader}
               alt={post.title}
               height='60px'
               width='60px'
