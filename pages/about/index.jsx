@@ -27,8 +27,9 @@ const About = () => {
             <li>My two favorite hobbies are 👺 watching anime & 📚 reading. I share plenty of suggestions and opinions on which ones you should check out</li>
           </ol>
           <h2 className='text-xl font-bold text-left pt-5 pb-2'>Get In Touch</h2>
-          <ol className='list-decimal text-l leading-relaxed'>
-            <li></li>
+          <ol className='list-decimal font-light text-l leading-relaxed'>
+            <li>🔗 <a href='https://www.linkedin.com/in/mosesvk/' className='underline text-sky-600 hover:text-sky-800 font-normal'><strong>LinkedIn</strong></a> - For a quick chat feel free to reach out through LinkedIn. I will respond within a day.</li>
+            <li>📧 <a href='mailto:kaumatule93@gmail.com' className='underline text-sky-600 hover:text-sky-800 font-normal'><strong>Email</strong></a> - For a longer thing, or if you dont have LinkedIn, please reach out via email. </li>
           </ol>
         </div>
       </div>
