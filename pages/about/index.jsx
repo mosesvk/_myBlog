@@ -6,7 +6,7 @@ import aboutImg from '../../assets/about-img.svg';
 const About = () => {
   return (
     <div className=''>
-      <div className='mx-auto max-w-4xl mb-8 flex flex-col items-center	'>
+      <div className='mx-auto max-w-4xl mb-8 flex flex-col items-center'>
         <div className='w-2/5 '>
           <Image src={aboutImg} alt='about-img' />
         </div>
@@ -19,8 +19,13 @@ const About = () => {
         </p>
         <hr className='border-4 w-44 rounded border-blue-600 ' />
       </div>
-      <div className='bg-gray-100 p-10'>
-        <h2 className='text-3xl'>What Im about</h2>
+      <div className='bg-gray-100 py-12'>
+        <div className='mx-auto max-w-2xl mb-8 flex flex-col items-center'>
+          <h2 className='text-2xl font-bold text-left'>What Im about</h2>
+          <ol>
+            <li>1. Im a Software Developer working </li>
+          </ol>
+        </div>
       </div>
     </div>
   );
