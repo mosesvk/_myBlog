@@ -24,7 +24,7 @@ const About = () => {
           <ol className='list-decimal font-light text-l leading-relaxed'>
             <li>👨‍👩‍👧‍👦 Married to the Love of my life and have two wonderful children. Check out my articles about fatherhood</li>
             <li>💻 I work a Software Engineer & Freelance developer in Utah. My journey to coding is not uncommon but I hope to provide help and insight to those choosing a similar path</li>
-            <li>My two favorite hobbies are 👺 watching anime & 📚 reading. I share plenty of suggestions and opinions on which ones you should check out</li>
+            <li>My favorite hobbies are 👺 watching anime, 🎹 playing piano, 📚 reading, and 🎮 playing video games. I share plenty of suggestions and opinions on which ones you should check out</li>
           </ol>
           <h2 className='text-xl font-bold text-left pt-5 pb-2'>Get In Touch</h2>
           <ol className='list-decimal font-light text-l leading-relaxed'>
