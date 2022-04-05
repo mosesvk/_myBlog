@@ -7,19 +7,19 @@ const About = () => {
   return (
     <div className=''>
       <div className='mx-auto max-w-4xl mb-8 flex flex-col items-center'>
-        <div className='w-2/5 '>
+        <div className='w-2/5'>
           <Image src={aboutImg} alt='about-img' />
         </div>
         <h1 className='text-3xl mb-8 font-bold pb-4 pt-10 text-center'>
           About Me
         </h1>
-        <p className='text-2xl px-28 pb-10 text-center'>
+        <p className='text-md md:text-2xl md:px-28 md:pb-10 pb-5 text-center '>
           Husband, Father, & Coder. Love sports, books, games, and anime.
         </p>
         <hr className='border-4 w-44 rounded border-blue-600 ' />
       </div>
       <div className='bg-gray-100 py-12'>
-        <div className='mx-auto max-w-xl mb-8 flex flex-col'>
+        <div className='mx-auto max-w-xl mb-8 flex flex-col sm:px-9'>
           <h2 className='text-xl font-bold text-left pb-2'>What Im about</h2>
           <ol className='list-decimal font-light text-l leading-relaxed'>
             <li>👨‍👩‍👧‍👦 Married to the Love of my life and have two wonderful children. Check out my articles about fatherhood</li>
