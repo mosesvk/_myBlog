@@ -165,7 +165,7 @@ export const getCategoryPost = async (slug) => {
             createdAt
             slug
             title
-            excerpt
+            exerpt
             featuredImage {
               url
             }
