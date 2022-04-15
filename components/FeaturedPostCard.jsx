@@ -18,7 +18,6 @@ const FeaturedPostCard = ({ post }) => (
           width="30px"
           className="align-middle drop-shadow-lg rounded-full"
           src={post.author.photo.url}
-          layout='fill'
         />
         <p className="inline align-middle text-white text-shadow ml-2 font-medium">{post.author.name}</p>
       </div>
