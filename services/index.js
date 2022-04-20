@@ -88,6 +88,64 @@ export const getPostDetails = async (slug) => {
   return result.post;
 };
 
+export const getReviewsById = async (slug) => {
+  const query = gql`
+    query GetReviewsById($slug: String!) {
+      reviewsConnection(where: { slug: $slug }) {
+        edges {
+          node {
+            title
+            slug
+            createdAt
+            image {
+              url
+            }
+            id
+            exerpt
+            category {
+              name
+              slug
+            }
+          }
+        }
+      }
+    }
+  `;
+
+  const result = await request(graphqlAPI, query, { slug });
+
+  return result.post;
+};
+
+export const getReviews = async (slug) => {
+  const query = gql`
+    query MyQuery {
+      reviewsConnection {
+        edges {
+          node {
+            title
+            slug
+            createdAt
+            image {
+              url
+            }
+            id
+            exerpt
+            category {
+              name
+              slug
+            }
+          }
+        }
+      }
+    }
+  `;
+
+  const result = await request(graphqlAPI, query);
+
+  return result.reviewsConnection.edges;
+};
+
 export const getSimilarPosts = async (categories, slug) => {
   const query = gql`
     query GetPostDetails($slug: String!, $categories: [String!]) {
@@ -277,5 +335,5 @@ export const getHeaders = async () => {
 
   const result = await request(graphqlAPI, query);
 
-  return result.headersConnection.edges
+  return result.headersConnection.edges;
 };
