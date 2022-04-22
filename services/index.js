@@ -148,17 +148,20 @@ export const getReviews = async () => {
 
 export const getReviewCategories = async () => {
   const query = gql`
-    query MyQuery {
-      reviewCategoriesConnection {
-        edges {
-          node {
-            id
-            name
-            slug
+  query MyQuery {
+    reviewCategoriesConnection {
+      edges {
+        node {
+          id
+          name
+          slug
+          image {
+            url
           }
         }
       }
     }
+  }
   `;
 
   const result = await request(graphqlAPI, query);

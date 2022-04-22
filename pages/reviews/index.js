@@ -8,9 +8,9 @@ const Reviews = ({reviewCategories}) => {
   console.log(reviewCategories)
   
   return <div className='h-screen'>
-    {/* {reviewCategories.map((item, idx) => (
-      <ReviewCategoryCard key={idx} reviewCategory={item} />
-    ))} */}
+    {reviewCategories.map((item, idx) => (
+      <ReviewCategoryCard key={idx} reviewCategory={item.node} />
+    ))}
   </div>;
 };
 
