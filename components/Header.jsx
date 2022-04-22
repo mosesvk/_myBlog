@@ -9,7 +9,7 @@ const Header = () => {
   useEffect(() => {
     getHeaders().then((newHeaders) => {
       setHeaders(newHeaders);
-      console.log(newHeaders);
+      // console.log(newHeaders);
     });
   }, []);
 

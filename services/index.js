@@ -117,7 +117,7 @@ export const getReviewsById = async (slug) => {
   return result.post;
 };
 
-export const getReviews = async (slug) => {
+export const getReviews = async () => {
   const query = gql`
     query MyQuery {
       reviewsConnection {
@@ -145,6 +145,29 @@ export const getReviews = async (slug) => {
 
   return result.reviewsConnection.edges;
 };
+
+export const getReviewCategories = async () => {
+  const query = gql`
+    query MyQuery {
+      reviewCategoriesConnection {
+        edges {
+          node {
+            id
+            name
+            slug
+          }
+        }
+      }
+    }
+  `;
+
+  const result = await request(graphqlAPI, query);
+  return result.reviewCategoriesConnection.edges
+};
+
+export const getReviewCategory = async(slug) => {
+
+}
 
 export const getSimilarPosts = async (categories, slug) => {
   const query = gql`

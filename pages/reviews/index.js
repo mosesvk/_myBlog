@@ -1,19 +1,26 @@
 import Image from 'next/image';
 import { useRouter } from 'next/router';
-import { getReviews } from '../../services/index';
-
+import { getReviewCategories } from '../../services/index';
+import ReviewCard from '../../components/ReviewCard'
 import MainImg from '../../assets/DrawKit Larry Character Illustration/SVG/DrawKit Larry Character Illustration (1).svg';
 
-const Reviews = () => {
-  return <div className='h-screen'></div>;
+const Reviews = ({reviewCategories}) => {
+  
+  return <div className='h-screen'>
+    {reviewCategories.map((item, idx) => (
+      <div key={idx}>
+        {item.node.name}
+      </div>
+    ))}
+  </div>;
 };
 
 export default Reviews;
 
 export async function getStaticProps() {
-  const reviews = (await getReviews()) || [];
+  const reviewCategories = (await getReviewCategories()) || [];
 
   return {
-    props: { reviews },
+    props: { reviewCategories },
   };
 }

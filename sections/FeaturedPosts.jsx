@@ -24,16 +24,9 @@ const responsive = {
   },
 };
 
-const FeaturedPosts = () => {
-  const [featuredPosts, setFeaturedPosts] = useState([]);
+const FeaturedPosts = ({featuredPosts}) => {
   const [dataLoaded, setDataLoaded] = useState(false);
 
-  useEffect(() => {
-    getFeaturedPosts().then((result) => {
-      setFeaturedPosts(result);
-      setDataLoaded(true);
-    });
-  }, []);
 
   const customLeftArrow = (
     <div className="absolute arrow-btn left-0 text-center py-3 cursor-pointer bg-pink-600 rounded-full">
@@ -63,3 +56,12 @@ const FeaturedPosts = () => {
 };
 
 export default FeaturedPosts;
+
+export async function getStaticProps() {
+  const featuredPosts = (await getFeaturedPosts()) || [];
+
+
+  return {
+    props: { featuredPosts },
+  };
+}
