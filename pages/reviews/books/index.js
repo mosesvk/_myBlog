@@ -2,7 +2,7 @@ import React from 'react'
 
 const Books = () => {
   return (
-    <div className=''>Book Reviews</div>
+    <div>Book Reviews</div>
   )
 }
 
