@@ -6,7 +6,7 @@ const ReviewCategoryCard = ({ reviewCategory }) => {
   console.log(reviewCategory);
 
   return (
-    <div className='relative h-72 my-4'>
+    <div className='relative h-72 my-4 md:w-2/5'>
       <div
         className='absolute rounded-lg bg-center bg-no-repeat bg-cover shadow-md inline-block w-full h-72'
         style={{ backgroundImage: `url('${reviewCategory.image.url}')` }}

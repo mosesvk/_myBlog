@@ -9,9 +9,18 @@ const Reviews = ({ reviewCategories }) => {
 
   return (
     <div className='md:container md:mx-auto md:px-8'>
-      {reviewCategories.map((item, idx) => (
-        <ReviewCategoryCard key={idx} reviewCategory={item.node} />
-      ))}
+      <div className='text-center'>
+        <h1 className='text-3xl font-bold'>Reviews Catagories</h1>
+        <p>
+          Check out all of the content Ive come across and my thoughts about
+          them
+        </p>
+      </div>
+      <div className='grid-cols-2'>
+        {reviewCategories.map((item, idx) => (
+          <ReviewCategoryCard key={idx} reviewCategory={item.node} />
+        ))}
+      </div>
     </div>
   );
 };
