@@ -6,13 +6,13 @@ const ReviewCategoryCard = ({ reviewCategory }) => {
   console.log(reviewCategory);
 
   return (
-    <div className='relative h-72 my-4 md:w-2/5'>
+    <div className='relative h-72 m-4 md:w-2/5'>
       <div
         className='absolute rounded-lg bg-center bg-no-repeat bg-cover shadow-md inline-block w-full h-72'
         style={{ backgroundImage: `url('${reviewCategory.image.url}')` }}
       ></div>
       <div className='absolute rounded-lg bg-center bg-gradient-to-b opacity-50 from-gray-400 via-gray-700 to-black w-full h-72'></div>
-      <div className='flex flex-col rounded-lg p-4 items-center justify-center absolute w-full h-full hover:flex-row'>
+      <div className='flex flex-col rounded-lg p-4 items-center justify-center absolute w-full h-full '>
         <p className='text-white mb-4 text-shadow font-bold text-2xl text-center'>
           {reviewCategory.name}
         </p>

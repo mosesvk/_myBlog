@@ -16,7 +16,7 @@ const Reviews = ({ reviewCategories }) => {
           them
         </p>
       </div>
-      <div className='grid-cols-2'>
+      <div className='md:flex md:flex-wrap grid-cols-2 justify-center'>
         {reviewCategories.map((item, idx) => (
           <ReviewCategoryCard key={idx} reviewCategory={item.node} />
         ))}
