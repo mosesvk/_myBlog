@@ -10,8 +10,8 @@ const Reviews = ({ reviewCategories }) => {
   return (
     <div className='md:container md:mx-auto md:px-8'>
       <div className='text-center'>
-        <h1 className='text-3xl font-bold'>Reviews Catagories</h1>
-        <p>
+        <h1 className='text-3xl font-bold mb-4'>Reviews Catagories</h1>
+        <p className='italic mb-4'>
           Check out all of the content Ive come across and my thoughts about
           them
         </p>
