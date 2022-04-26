@@ -148,29 +148,46 @@ export const getReviews = async () => {
 
 export const getReviewCategories = async () => {
   const query = gql`
-  query MyQuery {
-    reviewCategoriesConnection {
-      edges {
-        node {
-          id
-          name
-          slug
-          image {
-            url
+    query MyQuery {
+      reviewCategoriesConnection {
+        edges {
+          node {
+            id
+            name
+            slug
+            image {
+              url
+            }
           }
         }
       }
     }
-  }
   `;
 
   const result = await request(graphqlAPI, query);
-  return result.reviewCategoriesConnection.edges
+  return result.reviewCategoriesConnection.edges;
 };
 
-export const getReviewCategory = async(slug) => {
+export const getBooksCategory = async () => {
 
-}
+  const query = gql`
+    query MyQuery {
+      reviewCategories(where: { id: "cl28je7cj8ken0emzsoe8dcxr" }) {
+        id
+        name
+        image {
+          url
+          createdAt
+        }
+        slug
+      }
+    }
+  `;
+
+  const result = await request(graphqlAPI, query);
+
+  return result;
+};
 
 export const getSimilarPosts = async (categories, slug) => {
   const query = gql`

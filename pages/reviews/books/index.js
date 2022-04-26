@@ -1,9 +1,25 @@
-import React from 'react'
+import React from 'react';
 
-const Books = () => {
+import {getBooksCategory} from '../../../services';
+
+const Books = ({category}) => {
+  console.log(category)
   return (
-    <div>Book Reviews</div>
-  )
-}
+    <div>
+      <div></div>
+      <div></div>
+    </div>
+  );
+};
 
-export default Books
+export default Books;
+
+export const getStaticProps = async () => {
+  const data = await getBooksCategory();
+
+  return {
+    props: {
+      category: data.reviewCategories[0]
+    }
+  }
+}
