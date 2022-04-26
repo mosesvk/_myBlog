@@ -14,8 +14,6 @@ const PostCard = ({ post }) => {
           src={post.featuredImage.url}
           alt={post.title}
           className='object-top absolute h-80 w-full object-cover  shadow-lg rounded-t-lg lg:rounded-lg'
-          // height={100}
-          // width={100}
           layout='fill'
         />
       </div>

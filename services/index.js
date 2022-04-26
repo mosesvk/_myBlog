@@ -117,10 +117,10 @@ export const getReviewsById = async (slug) => {
   return result.post;
 };
 
-export const getReviews = async () => {
+export const getBookReviews = async () => {
   const query = gql`
     query MyQuery {
-      reviewsConnection {
+      reviewsConnection(where: { reviewCategory: { slug: "books" } }) {
         edges {
           node {
             title
@@ -131,7 +131,8 @@ export const getReviews = async () => {
             }
             id
             exerpt
-            category {
+            reviewCategory {
+              id
               name
               slug
             }
@@ -169,7 +170,6 @@ export const getReviewCategories = async () => {
 };
 
 export const getBooksCategory = async () => {
-
   const query = gql`
     query MyQuery {
       reviewCategories(where: { id: "cl28je7cj8ken0emzsoe8dcxr" }) {
