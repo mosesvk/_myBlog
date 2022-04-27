@@ -36,6 +36,11 @@ const Header = () => {
               Reviews
             </span>
           </Link>
+          <Link href={`/articles`} passHref>
+            <span className='md:float-right mt-2 align-middle text-black hover:text-blue-600 active:text-blue-700 ml-4 font-semibold cursor-pointer transition duration-500 ease transform hover:-translate-y-1'>
+              Articles
+            </span>
+          </Link>         
           <Link href={`/about`} passHref>
             <span className='md:float-right mt-2 align-middle text-black hover:text-blue-600 active:text-blue-700 ml-4 font-semibold cursor-pointer transition duration-500 ease transform hover:-translate-y-1'>
               About
