@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import { useRouter } from 'next/router';
 import { getReviewCategories } from '../../services/index';
 import ReviewCategoryCard from '../../components/ReviewCategoryCard';
 // import MainImg from '../../assets/DrawKit Larry Character Illustration/SVG/DrawKit Larry Character Illustration (1).svg';
