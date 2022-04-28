@@ -34,7 +34,7 @@ export default async function asynchandler(req, res) {
       }
     }
   `;
-  
+
   try {
     const result = await graphQLClient.request(query, req.body);
 
