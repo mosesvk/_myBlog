@@ -26,7 +26,7 @@ const responsive = {
 
 const FeaturedPosts = ({featuredPosts}) => {
   const [dataLoaded, setDataLoaded] = useState(false);
-
+  console.log(featuredPosts)
 
   const customLeftArrow = (
     <div className="absolute arrow-btn left-0 text-center py-3 cursor-pointer bg-pink-600 rounded-full">
