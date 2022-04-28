@@ -24,9 +24,16 @@ const responsive = {
   },
 };
 
-const FeaturedPosts = ({featuredPosts}) => {
+const FeaturedPosts = () => {
+  const [featuredPosts, setFeaturedPosts] = useState([]);
   const [dataLoaded, setDataLoaded] = useState(false);
-  console.log(featuredPosts)
+
+  useEffect(() => {
+    getFeaturedPosts().then((result) => {
+      setFeaturedPosts(result);
+      setDataLoaded(true);
+    });
+  }, []);
 
   const customLeftArrow = (
     <div className="absolute arrow-btn left-0 text-center py-3 cursor-pointer bg-pink-600 rounded-full">
@@ -46,6 +53,7 @@ const FeaturedPosts = ({featuredPosts}) => {
 
   return (
     <div className="mb-8">
+      <h1>Featured Posts</h1>
       <Carousel infinite customLeftArrow={customLeftArrow} customRightArrow={customRightArrow} responsive={responsive} itemClass="px-4">
         {dataLoaded && featuredPosts.map((post, index) => (
           <FeaturedPostCard key={index} post={post} />
@@ -56,12 +64,3 @@ const FeaturedPosts = ({featuredPosts}) => {
 };
 
 export default FeaturedPosts;
-
-export async function getStaticProps() {
-  const featuredPosts = (await getFeaturedPosts()) || [];
-
-
-  return {
-    props: { featuredPosts },
-  };
-}
