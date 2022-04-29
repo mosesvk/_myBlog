@@ -10,3 +10,4 @@ export { default as Comments } from './Comments';
 export { default as CommentsForm } from './CommentsForm';
 export { default as Loader } from './Loader';
 export {default as ReviewCard} from './ReviewCard'
+export {default as Header} from './Header'
