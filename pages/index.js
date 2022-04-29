@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import { PostCard, PostWidget, Categories } from '../components';
 import Hero from '../components/Hero';
+
 import { FeaturedPosts } from '../sections';
 import { getPosts } from '../services';
 
