@@ -16,7 +16,7 @@ const Header = () => {
   const logo = '< MVK />';
 
   return (
-    <div className=' mx-auto px-10 mb-8'>
+    <div className='container mx-auto px-10 mb-8'>
       <div className=''>
         <div className='md:float-left block'>
           <Link href='/' passHref>
