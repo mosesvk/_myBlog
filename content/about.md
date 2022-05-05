@@ -4,11 +4,11 @@ description: "This a dummy meta description of about page"
 
 #intro
 intro:
-  title: "This is the Blog for you. Check out"
-  description: "If ever a place existed where you could just go crazy creatively, it is definitely your about page. It’s your chance to show your readers who you really are. Pictures, quotes, inspirational graphics, whatever it is that drives you.. Display it here in a way that only you can.
+  title: "This is the Blog for you. Check it out"
+  description: "From topics of Family, Coding, Anime, Movies & Shows, This is my personal blog of my favorite things in life.
   
   
-  I’ve included a plugin in the setup of this theme that will make adding columns to your pages and posts a piece of cake. Let creativity take control, and forget about the technical end of things, I’ve got your six."
+  From Articles to Reviews, I hope you enjoy going through all of the content."
 
   # about images
   images:

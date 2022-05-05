@@ -67,7 +67,7 @@ export default function About({ authors, posts, about: { frontMatter } }) {
             </div>
           </div>
 
-          {frontMatter.our_writers.enable === true ? (
+          {/* {frontMatter.our_writers.enable === true ? (
             <div className="section-sm pb-0">
               <div className="row justify-content-center">
                 <div className="col-lg-10 text-center">
@@ -85,7 +85,7 @@ export default function About({ authors, posts, about: { frontMatter } }) {
                 </div>
               </div>
             </div>
-          ) : null}
+          ) : null} */}
         </div>
       </section>
     </Layout>
