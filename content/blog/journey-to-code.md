@@ -8,15 +8,11 @@ categories: ["Tech"]
 tags: ["Life"]
 ---
 > You have to go down a lot of wrong paths to find the Right one
-<cite>idk</cite>
+<cite>Not sure who said this</cite>
 
-In the wake of Facebook rebranding as Meta, reflecting its focus on the “metaverse”, Microsoft has now announced it, too, will launch into this space.
+Hope this helps someone who is in search of the right career path in their life. This is not a post strictly for a career path in tech, but about the pure process of failing and retrying. 
 
-Meta has proposed that the metaverse will eventually allow us to engage across education, work and social contexts, while Microsoft looks to be focusing specifically on the realm of the virtual office for now.
+### Education vs. Degree 
+Going to University was a great experience for me. But it had little to do with me finding my career path. 
 
-### In the wake of Facebook rebranding as Meta
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+I understand everyone is different. I had friends in college who immediately knew what they wanted to do
