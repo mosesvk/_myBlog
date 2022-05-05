@@ -31,13 +31,6 @@ const Document = ({
       <meta name='twitter:image' content={ogImage} />
       <meta name='twitter:card' content='summary_large_image' />
       <meta name='twitter:description' content={metaDescription} />
-
-      <link rel='shortcut icon' href={siteConfig.favicon} type='image/x-icon' />
-
-      <link
-        href='https://fonts.googleapis.com/css2?family=Crete+Round&family=Work+Sans:wght@500;600&display=swap'
-        rel='stylesheet'
-      />
     </Head>
   );
 };
