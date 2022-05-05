@@ -4,9 +4,12 @@ description: "This a dummy meta description of about page"
 
 #intro
 intro:
-  title: "This is the Blog for you. Check it out"
-  description: "From topics of Family, Coding, Anime, Movies & Shows, This is my personal blog of my favorite things in life.
+  title: "Do You 
   
+  
+  "
+  description: "From topics of Family, Coding, Anime, Movies & Shows, This is my personal blog of my favorite things in life.
+
   
   From Articles to Reviews, I hope you enjoy going through all of the content."
 

@@ -1,7 +1,7 @@
 ---
-title: "My Journey to Software Engineering."
-description: "How I went from a dead end job to finding a career that I love"
-image: "/images/blog/code-1.jpg"
+title: "5 Ways to be on Top of Your Coding Bootcamp"
+description: "How to go from learning code, to teaching your classmates."
+image: "/images/blog/code-class.jpg"
 date: "2022-01-16T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Tech"]

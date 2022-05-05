@@ -55,8 +55,12 @@
           "link": "/tags/thoughts"
         }, 
         {
-          "name": "fatherhood",
-          "link": "/tags/fatherhood"
+          "name": "Notes",
+          "link": "/tags/notes"
+        }, 
+        {
+          "name": "Productivity",
+          "link": "/tags/productivity"
         }
       ]
     },

@@ -12,6 +12,7 @@ export default function Header() {
   const { toggleSearch } = useContext(AppContext);
   const [searchOpen, setSearchOpen] = toggleSearch;
   const router = useRouter();
+  const logo = '< mvk >'
 
   useEffect(() => {
     // search close using Escape key
@@ -77,16 +78,7 @@ export default function Header() {
               <nav className="navbar navbar-expand-lg navbar-light p-0">
                 <Link href="/">
                   <a className="navbar-brand font-weight-bold d-flex mb-0">
-                    <Image
-                      className="img-fluid"
-                      width={110}
-                      height={35}
-                      src={siteConfig.logo}
-                      alt={siteConfig.logoText}
-                      layout="fixed"
-                      placeholder="blur"
-                      blurDataURL={siteConfig.logo}
-                    />
+                    <h2>{logo}</h2>
                   </a>
                 </Link>
 
