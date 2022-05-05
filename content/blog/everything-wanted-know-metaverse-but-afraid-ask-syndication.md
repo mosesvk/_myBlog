@@ -4,7 +4,7 @@ description: "In the wake of Facebook rebranding as Meta, reflecting its focus o
 image: "/images/blog/04.jpg"
 date: "2021-11-16T16:56:47+06:00"
 author: "Moses Kaumatule"
-categories: ["Earth"]
+categories: ["Tech"]
 tags: ["Life"]
 ---
 
