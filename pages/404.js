@@ -11,7 +11,7 @@ export default function PageNotFound() {
               <div className="text-center">
                 <h1 className="page-not-found-title">404</h1>
                 <p className="mb-4">
-                  Oops. The page you're looking for doesn't exist.
+                  Oops. The page you&apos;re looking for doesn&apos;t exist.
                 </p>
                 <Link href="/">
                   <a className="btn btn-primary">Back to home</a>
