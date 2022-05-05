@@ -1,0 +1,15 @@
+{
+  "metaData": {
+    "title" : "Qurno | Minimal NextJS Blog Template",
+    "description" : "Qurno - a minimal nextjs blog template",
+    "author" : "PlatolTheme",
+    "keyword" : "qurno, minimal, react, nextjs, blog, template",
+    "ogImage" : "https://qurno-nextjs.vercel.app/images/ogimage.jpg"
+  },
+  "baseURL" : "https://qurno-nextjs.vercel.app/",
+  "logo" : "/images/logo.png",
+  "logoText" : "Qurno",
+  "favicon" : "/images/favicon.png",
+  "postPerPage" : 6,
+  "copyright" : "© 2022 Qurno. All rights reserved."
+}

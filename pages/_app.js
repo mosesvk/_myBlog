@@ -1,25 +1,22 @@
-import {useEffect, useState} from 'react'
-import Router from 'next/router'
-import NProgress from 'nprogress'
+import '@/styles/bootstrap.scss';
+import '@/styles/globals.scss';
+import { useState, useEffect } from 'react';
+import { AppContext } from '@/components/UseContext';
 
-import {Layout} from '../components'
+export default function QurnoApp({ Component, pageProps }) {
+  const [searchOpen, setSearchOpen] = useState('');
 
-import '../styles/globals.scss'
-import 'tailwindcss/tailwind.css'
+  useEffect(() => {
+    import('bootstrap/dist/js/bootstrap');
+  }, []);
 
-Router.events.on('routeChangeStart', (url) => {
-  console.log(`Loading: ${url}`)
-  NProgress.start()
-})
-Router.events.on('routeChangeComplete', () => NProgress.done())
-Router.events.on('routeChangeError', () => NProgress.done())
-
-function MyApp({ Component, pageProps }) {
   return (
-    <Layout>
+    <AppContext.Provider
+      value={{
+        toggleSearch: [searchOpen, setSearchOpen],
+      }}
+    >
       <Component {...pageProps} />
-    </Layout>
-  )
+    </AppContext.Provider>
+  );
 }
-
-export default MyApp

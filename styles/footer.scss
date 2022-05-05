@@ -1,0 +1,42 @@
+// newsletter-block style
+.newsletter-block {
+  .input-group-text,
+  .form-control {
+    background-color: transparent;
+    margin: 0 8px;
+  }
+  .input-group-text {
+    padding: 0 1.5rem;
+    height: 50px;
+    @extend .rounded;
+  }
+  .form-control {
+    &:focus {
+      border-color: $color-primary;
+      ~.input-group-append {
+        .input-group-text {
+          border-color: $color-primary;
+          background-color: $color-primary;
+          color: $white;
+        }
+      }
+    }
+  }
+  ::-webkit-input-placeholder {
+    color: rgba($dark, .7);
+  }
+  :-ms-input-placeholder {
+    color: rgba($dark, .7);
+  }
+  ::placeholder {
+    color: rgba($dark, .7);
+  }
+  button.input-group-text {
+    color: $dark;
+    &:hover {
+      border-color: $color-primary;
+      background-color: $color-primary;
+      color: $white;
+    }
+  }
+}
