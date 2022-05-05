@@ -17,40 +17,42 @@
       "link": "/blog/archive"
     },
     {
-      "name": "Pages",
-      "link": "#",
+      "name": "Categtories",
+      "link": "/categories",
       "submenu": [
         {
-          "name": "Author",
-          "link": "/author"
+          "name": "Tech",
+          "link": "/categories/tech"
         },
         {
-          "name": "Author Single",
-          "link": "/author/chris-impey"
+          "name": "Family",
+          "link": "/categories/family"
         },
         {
-          "name": "Elements",
-          "link": "/blog/elements"
+          "name": "Anime",
+          "link": "/categories/anime"
         },
         {
-          "name": "Tags",
-          "link": "/tags"
-        },
+          "name": "Health + Fitness",
+          "link": "/categories/health"
+        }
+      ]
+    },
+    {
+      "name": "Tags",
+      "link": "/tags",
+      "submenu": [
         {
-          "name": "Categories",
-          "link": "/categories"
-        },
+          "name": "Reviews",
+          "link": "/tags/reviews"
+        }, 
         {
-          "name": "Tag Single",
-          "link": "/tags/machine"
-        },
+          "name": "Thoughts",
+          "link": "/tags/thoughts"
+        }, 
         {
-          "name": "Category Single",
-          "link": "/categories/ai"
-        },
-        {
-          "name": "Privacy",
-          "link": "/privacy"
+          "name": "fatherhood",
+          "link": "/tags/fatherhood"
         }
       ]
     },
