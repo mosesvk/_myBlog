@@ -1,11 +1,11 @@
 ---
-title: "5 Ways to be on Top of Your Coding Bootcamp"
-description: "How to go from learning code, to teaching your classmates."
-image: "/images/blog/code-class.jpg"
-date: "2022-01-16T16:56:47+06:00"
+title: "Coding Bootcamps: Pros & Cons"
+description: "As a former bootcamp grad, there are plenty pros and cons that I want to share."
+image: "/images/blog/code-class2.jpg"
+date: "2022-02-16T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Tech"]
-tags: ["Productivity", "Thoughts"]
+tags: ["Thoughts"]
 ---
 > You have to go down a lot of wrong paths to find the Right one
 <cite>Not sure who said this</cite>
