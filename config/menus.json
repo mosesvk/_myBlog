@@ -21,6 +21,10 @@
       "link": "/categories",
       "submenu": [
         {
+          "name": "All",
+          "link": "/categories"
+        },
+        {
           "name": "Tech",
           "link": "/categories/tech"
         },
