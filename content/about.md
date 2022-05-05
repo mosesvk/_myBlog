@@ -4,10 +4,8 @@ description: "This a dummy meta description of about page"
 
 #intro
 intro:
-  title: "Do You 
-  
-  
-  "
+  title1: "Hi I'm Moses Kaumatule"
+  title2: "Family. Tech. Anime. Productivity. Comic Book Movie & Shows. Organization."
   description: "From topics of Family, Coding, Anime, Movies & Shows, This is my personal blog of my favorite things in life.
 
   

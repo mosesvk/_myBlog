@@ -25,10 +25,13 @@ export default function About({ authors, posts, about: { frontMatter } }) {
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-10 text-center">
+              <h1 className='text-dark mb-5' dangerouslySetInnerHTML={{
+                  __html: marked.parseInline(frontMatter.intro.title1),
+                }}></h1>
               <h2
                 className="text-dark mb-0"
                 dangerouslySetInnerHTML={{
-                  __html: marked.parseInline(frontMatter.intro.title),
+                  __html: marked.parseInline(frontMatter.intro.title2),
                 }}
               ></h2>
             </div>
