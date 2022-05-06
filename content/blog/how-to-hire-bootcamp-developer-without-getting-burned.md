@@ -3,7 +3,7 @@ title: "How to hire a developer straight out of bootcamp — without getting bur
 description: "There’s a worldwide talent shortage in software development, and nearly one-third of hiring managers have hired someone from a coding bootcamp to help fill the void. 72% say bootcamp graduates are just as good or better than other hires, but 28% feel they are not equipped to handle their jobs."
 image: "/images/blog/07.jpg"
 date: "2021-11-15T11:35:57+06:00"
-author: "Chris Impey"
+author: "Moses Kaumatule"
 categories: ["Tech"]
 tags: ["Lifestyle", "Startups"]
 ---

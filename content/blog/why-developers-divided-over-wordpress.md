@@ -3,7 +3,7 @@ title: "Why developers are so divided over WordPress"
 description: "After seeing WordPress top the most dreaded platform on Stack Overflow’s Developer Survey for two years in a row (2019 and 2020), a few weeks ago we explored why developers hate using the CMS."
 image: "/images/blog/09.jpg"
 date: "2020-10-12T16:56:47+06:00"
-author: "Thomas Macaulay"
+author: "Moses Kaumatule"
 categories: ["Tech"]
 tags: ["Work", "Lifestyle"]
 ---

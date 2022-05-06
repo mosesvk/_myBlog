@@ -3,7 +3,7 @@ title: "Gig startups want you to believe they can replace your job — don’t f
 description: "That’s the message that should be implied — if not explicitly stated — to every applicant of every gig and creator marketplace during the vetting process."
 image: "/images/blog/05.jpg"
 date: "2019-02-09T16:56:47+06:00"
-author: "Chris Impey"
+author: "Moses Kaumatule"
 categories: ["Tech"]
 tags: ["Lifestyle", "Startups"]
 ---

@@ -3,7 +3,7 @@ title: "I work 5 hours a day, and I’ve never been more productive"
 description: "Something’s very wrong with the traditional 9 to 5: it doesn’t work."
 image: "/images/blog/08.jpg"
 date: "2020-08-12T16:56:47+06:00"
-author: "Chris Impey"
+author: "Moses Kaumatule"
 categories: ["Tech"]
 tags: ["Work", "Lifestyle"]
 ---
