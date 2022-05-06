@@ -3,7 +3,7 @@ import Layout from '@/components/Layout';
 import PageHeaderBlock from '@/components/PageHeader';
 import contactForm from '@/config/contactForm.json';
 import { getSinglePage } from '@/libs/getSinglePage';
-import { IconMailForward, IconPhone, IconBrandTelegram } from '@tabler/icons';
+import { IconMailForward, IconPhone, IconBrandTelegram, IconBrandLinkedin } from '@tabler/icons';
 
 export default function Contact({ contact: { frontMatter } }) {
   return (
@@ -45,9 +45,11 @@ export default function Contact({ contact: { frontMatter } }) {
                     className="me-2"
                     style={{ transform: 'translateY(' + -2 + 'px)' }}
                   >
-                    <IconPhone size={17} />
+                    <IconBrandLinkedin size={17} />
                   </i>{' '}
-                  {frontMatter.contact.phone_number}
+                  <a href='https://www.linkedin.com/in/mosesvk/'>
+                    {frontMatter.contact.linkedIn}
+                  </a>
                 </p>
               </div>
             </div>
@@ -58,7 +60,7 @@ export default function Contact({ contact: { frontMatter } }) {
               <form
                 className="row g-4"
                 action={contactForm.contactFormAction}
-                method="POST"
+                method="post"
                 target="_blank"
               >
                 <div className="col-md-12">
