@@ -25,9 +25,10 @@ import {
 export default function PostPage({
   slug,
   content,
-  frontMatter: { title, author, date, image, description, tags },
+  frontMatter: { title, author, date, image, description, tags, categories },
   authors,
 }) {
+
   let pageUrl = `${siteConfig.baseURL.replace(/\/$|$/, '/')}blog/${slug}`;
   return (
     <Layout metaTitle={title} metaDescription={description} ogImage={image}>
@@ -161,11 +162,24 @@ export default function PostPage({
               </div>
             </div>
             <div className="col-lg-8 post-content-block order-0 order-lg-2">
+              
               {/* THIS IS THE CONTENT */}
               <div
                 className="content"
                 dangerouslySetInnerHTML={{ __html: marked.parse(content) }}
               ></div>
+
+              <ul className="post-meta-tag list-unstyled list-inline mt-5">
+                <li className="list-inline-item">Category: </li>
+                {categories.map((t, i) => (
+                  <li key={i} className="list-inline-item">
+                    <Link href={`/categories/${t.replace(/ /g, '-').toLowerCase()}`}>
+                      <a className="bg-white">{t}</a>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+
               <ul className="post-meta-tag list-unstyled list-inline mt-5">
                 <li className="list-inline-item">Tags: </li>
                 {tags.map((t, i) => (
@@ -176,80 +190,6 @@ export default function PostPage({
                   </li>
                 ))}
               </ul>
-            </div>
-          </div>
-
-          <div className="single-post-author">
-            <div className="row justify-content-center">
-              <div className="col-lg-10">
-                <div className="d-block d-md-flex">
-                  <Link
-                    href={`/author/${author.replace(/ /g, '-').toLowerCase()}`}
-                  >
-                    <a>
-                      {authors.map((authorPage, i) =>
-                        author.replace(/ /g, '-').toLowerCase() ===
-                        authorPage.authorSlug ? (
-                          <span key={i}>
-                            <Image
-                              src={authorPage.authorFrontMatter.image}
-                              alt={author}
-                              width="155"
-                              height="155"
-                              layout="fixed"
-                              className="rounded mr-4"
-                              placeholder="blur"
-                              blurDataURL={authorPage.authorFrontMatter.image}
-                            />
-                          </span>
-                        ) : (
-                          ''
-                        )
-                      )}
-                    </a>
-                  </Link>
-                  <div className="ms-0 ms-md-4 ps-0 ps-md-3 mt-4 mt-md-0">
-                    <h3 className="h4 mb-3">
-                      <Link
-                        href={`/author/${author
-                          .replace(/ /g, '-')
-                          .toLowerCase()}`}
-                      >
-                        <a className="text-dark">{author}</a>
-                      </Link>
-                    </h3>
-                    {authors.map((authorPage, i) =>
-                      author.replace(/ /g, '-').toLowerCase() ===
-                      authorPage.authorSlug ? (
-                        <div
-                          key={i}
-                          dangerouslySetInnerHTML={{
-                            __html: marked.parse(
-                              truncateString(authorPage.authorContent, 150)
-                            ),
-                          }}
-                        ></div>
-                      ) : (
-                        ''
-                      )
-                    )}
-                    <div className="content">
-                      <Link
-                        href={`/author/${author
-                          .replace(/ /g, '-')
-                          .toLowerCase()}`}
-                      >
-                        <a className="text-dark">
-                          See all posts by this author{' '}
-                          <i>
-                            <IconArrowUpRight size={20} />
-                          </i>
-                        </a>
-                      </Link>
-                    </div>
-                  </div>
-                </div>
-              </div>
             </div>
           </div>
         </div>
