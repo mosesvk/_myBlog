@@ -35,10 +35,10 @@ Save up enough money beforehand so that you can focus on your bootcamp full-time
 LinkedIn will be your best friend. If you do not already have an account, here is a video to help:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zd4ALKv8Das
 " target="_blank"><img src="http://img.youtube.com/vi/zd4ALKv8Das/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+ width="240" height="180" border="10" /></a>
 
-Your ultimate goal is to find a job. The best way to do that is to NETWORK. There are plenty of people out there who are more than willing to help you in your journey. 
+Your ultimate goal is to find a job. The best way to do that is to NETWORK. LinkedIn is a great platform to connect with people who know about job opportunities. candidates who are referred from an employee are 55% faster to hire[^3].
 
+<hr/>
 
-
-
+[^3]: Li, L 2014, Chinese scroll painting H533, Australian Museum, accessed 20 February 2016, <https://australianmuseum.net.au/chinese-scroll-painting-h533>.
