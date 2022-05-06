@@ -25,12 +25,12 @@ If you are not comfortable with your own typing skills, don't fret. Typing is an
 #### 3. Set up your Coding Environment
 Make sure to set up your IDE (Integrated Developing Environment). Most bootcamps will use Visual Studio Code (VScode for short), but there are plenty other options for this. 
 
-#### 4. Social Media is Vital 
+#### 4. Save up
+Financial burden can either be a hinderance or a blessing during your time at a bootcamp.
 
 
-
-#### 5. Save up
-
+#### 5. Social Media is Vital
+LinkedIn will be your best friend. If you do not already have an acccount, here is a video to help you set one up and prepare to find a job. 
 
 
 
