@@ -7,7 +7,7 @@ author: "Moses Kaumatule"
 categories: ["Tech"]
 tags: ["Productivity", "Thoughts"]
 ---
-![alt text](https://media0.giphy.com/media/snEeOh54kCFxe/giphy.webp?cid=ecf05e479pk5sx24yste9nt045dvxb0r5ociu2wkoonar86y&rid=giphy.webp&ct=g "Logo Title Text 1")
+![alt text](https://media0.giphy.com/media/snEeOh54kCFxe/giphy.webp?cid=ecf05e479pk5sx24yste9nt045dvxb0r5ociu2wkoonar86y&rid=giphy.webp&ct=g)
 
 ##### Feeling nervous for your upcoming bootcamp? Or are you deciding what date you should you should start? As a former bootcamp grad, I give five essential tips that will guarantee your success as a software developer. 
 
