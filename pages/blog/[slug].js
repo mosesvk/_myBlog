@@ -180,7 +180,7 @@ export default function PostPage({
                 ))}
               </ul>
 
-              <ul className="post-meta-tag list-unstyled list-inline mt-5">
+              <ul className="post-meta-tag list-unstyled list-inline mt-2">
                 <li className="list-inline-item">Tags: </li>
                 {tags.map((t, i) => (
                   <li key={i} className="list-inline-item">
