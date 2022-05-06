@@ -14,6 +14,11 @@ tags: ["Productivity", "Thoughts"]
 #### 1. Three Month Fundamentals 
 Take around 3 months before the bootcamp to study the fundamentals of HTML, CSS, and Javascript. DO NOT waste time in the bootcamp learning concepts that you can easily learn on your own. 
 
+
+<img src='https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png' width='200'>
+<img src='https://miro.medium.com/max/1000/0*otyi14oWF9dPW61i' width='200'>
+<br />
+
 Sources like [Free Code Camp](https://www.freecodecamp.org/) & [the Odin Project](https://www.theodinproject.com/home) are great to get started. And even Youtube is an effective tool to use, yet easy to get distracted.
  
 I studied for 5 months before my coding bootcamp and I still wish that I could've studied a little longer. Just remember, do not waste time and money learning only the basics at a coding bootcamp. 
