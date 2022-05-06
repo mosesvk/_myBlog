@@ -12,7 +12,7 @@ tags: ["Productivity", "Thoughts"]
 ##### Feeling nervous for your upcoming bootcamp? Or are you deciding what date you should you should start? As a former bootcamp grad, I give five essential tips that will guarantee your success as a software developer. 
 
 #### 1. Three Month Fundamentals 
-I strongly encourage you to take around 3 months before the bootcamp to study the fundamentals of HTML, CSS, and Javascript. DO NOT waste time in the bootcamp learning concepts that you can easily learn on your own. 
+Take around 3 months before the bootcamp to study the fundamentals of HTML, CSS, and Javascript. DO NOT waste time in the bootcamp learning concepts that you can easily learn on your own. 
 
 Sources like [Free Code Camp](https://www.freecodecamp.org/) & [the Odin Project](https://www.theodinproject.com/home) are great to get started. And even Youtube is an effective tool to use, yet easy to get distracted.
  
