@@ -32,7 +32,7 @@ Financial burden can either be a hinderance or a blessing during your time at a 
 Save up enough money beforehand so that you can focus on your bootcamp full-time. There are those who can work on the side, but I would encourage you to avoid that at all possible if you can. You will want to focus all of your time and attention to coding so that by the end you can be job ready.
 
 #### 5. Social Media is Vital
-LinkedIn will be your best friend. If you do not already have an acccount, here is a video to help you set one up and prepare to find a job. 
+LinkedIn will be your best friend. If you do not already have an account, here is a video to help you set one up and prepare to find a job. 
 
 
 
