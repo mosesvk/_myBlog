@@ -20,7 +20,7 @@ I studied for 5 months before my coding bootcamp and I still wish that I could'v
 
 #### 2. Polish Your Typing
 ##### ![](https://media2.giphy.com/media/13GIgrGdslD9oQ/200w.webp?cid=ecf05e47seydjnw2jpcereb3au867qcstdcwhxg15egi7wl1&rid=200w.webp&ct=g)
-If you are not comfortable with your own typing skills, don't fret. Typing is a very attainable skill for most programmers. I used to type around 25 WPM before I started to learn to code. Took only around 1-2 months to get up to 80 WPM. 
+If you are not comfortable with your own typing skills, don't fret. Typing is an attainable skill by anyone. I used to type around 25 WPM before I started to learn to code. Took only around 1-2 months to get up to 80 WPM. 
 
 #### 3. Set up your Coding Environment
 Make sure to set up your IDE (Integrated Developing Environment). Most bootcamps will use Visual Studio Code (VScode for short), but there are plenty other options for this. 
