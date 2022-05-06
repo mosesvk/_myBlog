@@ -161,6 +161,7 @@ export default function PostPage({
               </div>
             </div>
             <div className="col-lg-8 post-content-block order-0 order-lg-2">
+              {/* THIS IS THE CONTENT */}
               <div
                 className="content"
                 dangerouslySetInnerHTML={{ __html: marked.parse(content) }}

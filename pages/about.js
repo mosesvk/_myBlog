@@ -28,12 +28,12 @@ export default function About({ authors, posts, about: { frontMatter } }) {
               <h1 className='text-dark mb-5' dangerouslySetInnerHTML={{
                   __html: marked.parseInline(frontMatter.intro.title1),
                 }}></h1>
-              <h2
-                className="text-dark mb-0"
+              <h4
+                className="text-dark mb-0 italic"
                 dangerouslySetInnerHTML={{
                   __html: marked.parseInline(frontMatter.intro.title2),
                 }}
-              ></h2>
+              ></h4>
             </div>
           </div>
 
