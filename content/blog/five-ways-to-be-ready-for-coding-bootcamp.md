@@ -26,8 +26,10 @@ If you are not comfortable with your own typing skills, don't fret. Typing is an
 Make sure to set up your IDE (Integrated Developing Environment). Most bootcamps will use Visual Studio Code (VScode for short), but there are plenty other options for this. 
 
 #### 4. Save up
-Financial burden can either be a hinderance or a blessing during your time at a bootcamp.
+##### ![](https://media3.giphy.com/media/5e22CwMaD4oMSk3Qpc/200w.webp?cid=ecf05e47pmul7smoppv59u1kyrg3p89327awp387xr3butmb&rid=200w.webp&ct=g)
+Financial burden can either be a hinderance or a blessing during your time at a bootcamp. If it is a burden, then you will not be performing your best.
 
+Save up enough money beforehand so that you can focus on your bootcamp full-time. There are those who can work on the side, but I would encourage you to avoid that at all possible if you can. You will want to focus all of your time and attention to coding so that by the end you can be job ready.
 
 #### 5. Social Media is Vital
 LinkedIn will be your best friend. If you do not already have an acccount, here is a video to help you set one up and prepare to find a job. 
