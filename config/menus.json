@@ -33,8 +33,8 @@
           "link": "/categories/family"
         },
         {
-          "name": "Anime",
-          "link": "/categories/anime"
+          "name": "Entertainment",
+          "link": "/categories/entertainment"
         },
         {
           "name": "Books",
@@ -57,10 +57,22 @@
         {
           "name": "Notes",
           "link": "/tags/notes"
-        }, 
+        },
         {
           "name": "Productivity",
           "link": "/tags/productivity"
+        }, 
+        {
+          "name": "Anime",
+          "link": "/tags/anime"
+        }, 
+        {
+          "name": "Movies",
+          "link": "/tags/movies"
+        }, 
+        {
+          "name": "TV Shows",
+          "link": "/tags/tv"
         }
       ]
     },
