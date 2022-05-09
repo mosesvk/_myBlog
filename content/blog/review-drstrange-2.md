@@ -52,10 +52,10 @@ The writers of Multiverse of Madness either did not watch WandaVision or they on
 
 ### Nice but Not Needed 
 
-The Illuminati was only brought to the movie for two reasons: for fan service and to show how powerful and evil Wanda has become... But why? We already know Wanda is incredibly strong from WandaVision. We see her create a completely different reality with ease. Yes, the reveal of John Krasinski and John Stewart was epic, but their immediate demise to Scarlet Witch was a waste. It deflates the excitement of possibily seeing them in a future Fantastic Four or X-MEN movie. I also thought the actors and actresses for the illuminati didn't really stand out to me. Yes that's including Mr. Fantastic and Professor X. I guess part of it was the small screen time, But it just wasn't memorable for me. 
+The Illuminati was only brought to the movie for two reasons: for fan service and to show how powerful and evil Wanda has become... <span class='emphasis'>But why? We already know Wanda is incredibly strong</span> from WandaVision. We see her create a completely different reality with ease. Yes, the reveal of John Krasinski and John Stewart was epic, but their immediate demise to Scarlet Witch was a waste. It deflates the excitement of possibily seeing them in a future Fantastic Four or X-MEN movie. I also thought the actors and actresses for the illuminati didn't really stand out to me. Yes that's including Mr. Fantastic and Professor X. I guess part of it was the small screen time, But it just wasn't memorable for me. 
 
 I also thought America Chavez was not really needed for the story. It seemed like she was a requirement by Marvel to check boxes. She was a damsel in distress for most of the movie. She eventually started to figure out her power which was nice, but I would rather dive deeper into Dr. Strange's variants or Wanda's struggle against Scarlet Witch. 
 
 
 ### the Visual Spectacle - 
-If there was one flawless aspect of this movie, it would be the imagery and VFX. 
+If there was one flawless aspect of this movie, it would be the imagery and VFX. The colors and graphics made the movie very fun to watch. The scene where Doctor Strange and America Chavez go through different 
