@@ -25,7 +25,7 @@ Visuals | 9.5
 
 <h4 id='spoiler'>*** Spoiler Warning ***</h4>
 
-### Plot - an Undermining Mess
+### Undermining Mess
 Multiverse of Madness follows the events of Spiderman: No Way Home. Although, there is no way of you knowing anything of it's consequences. It is also a sequel to the first Dr. Strange, of which we give little nods to here and there. Which makes sense because so much has happened since then (2016). Surprisingly, there are big connections to Avengers: Infinity War. This was the only connection that helped the plot's purpose. Dr. Strange gave up the time stone to Thanos, and because of that, Wanda's Destroying Vision made no difference. Thanos still won, and she had to see Vision die all over again. 
 
 ###### ![](https://cdn130.picsart.com/324496039019201.gif?to=crop&type=webp&r=40x40&q=50)
@@ -44,15 +44,17 @@ Ponytail Strange was willing to sacrifice an innocent America Chavez for the fat
 <span class='emphasis'>Lesson 2,</span>, He cannot always be the only one to save the day. Like Christine told him, "You always had to be the one holding the knife". In the end, Doctor Strange relied on America Chavez and encouraged her to believe in herself instead of usually relying on himself. 
 
 
-### Wanda vs. Scarlet?- 
+### Wanda vs. Scarlet?
 The writers of Multiverse of Madness either did not watch WandaVision or they only watched the end credit scene. In that that scene, the darkhold starts to influence Wanda. The movie only credits this scene. It forgets about the whole series explaining what got her to that point. She came to peace about Vision and her sons being gone. But all of a sudden it seems like we rewinded to the beginning of WandaVision.
 
 ###### ![](https://c.tenor.com/Xzor7ePKzioAAAAd/wandavision-wanda.gif)
 
 
-### Illumi-whati? - 
+### Nice but Not Needed 
 
 The Illuminati was only brought to the movie for two reasons: for fan service and to show how powerful and evil Wanda has become... But why? We already know Wanda is incredibly strong from WandaVision. We see her create a completely different reality with ease. Yes, the reveal of John Krasinski and John Stewart was epic, but their immediate demise to Scarlet Witch was a waste. It deflates the excitement of possibily seeing them in a future Fantastic Four or X-MEN movie. 
+
+I also thought America Chavez was not really needed for the story. It felt like she was a requirement by Marvel to check boxes. She was a damsel in distress for most of the movie. 
 
 
 ### Future..? - 
