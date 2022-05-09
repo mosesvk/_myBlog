@@ -31,7 +31,10 @@ Multiverse of Madness follows the events of Spiderman: No Way Home. Although, th
 ###### ![](https://cdn130.picsart.com/324496039019201.gif?to=crop&type=webp&r=40x40&q=50)
 ###### ![](https://media4.giphy.com/media/G1ZPWPIszGDPh2NeG5/giphy.gif)
 
+But WandaVision really could've been the story to help skyrocket this plot. That series, in my opinion, was a masterpiece. It's storyline and character development were strong and consistent. Wanda was a multi-faceted character who was going through pain and grief. But Multiverse of Madness only gives a five second nod to WandaVision in Dr. Strange and Wanda's conversation at the fake orchard, which was also already shown in the trailer. 
 
-### Wanda vs. Scarlet - 
+### Wanda or Scarlet?- 
 
-### Plot - 
+
+
+### Future..? - 
