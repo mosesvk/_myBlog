@@ -44,8 +44,10 @@ Ponytail Strange was willing to sacrifice an innocent America Chavez for the fat
 <span class='emphasis'>Lesson 2,</span>, He cannot always be the only one to save the day. Like Christine told him, "You always had to be the one holding the knife". In the end, Doctor Strange relied on America Chavez and encouraged her to believe in herself instead of usually relying on himself. 
 
 
-### Which Scarlet?- 
-WandaVision depicted Wanda's struggle so well and it ended with her coming to closure with her loss. The writers of Multiverse of Madness either did not watch WandaVision or they only watched the end credit scene. 
+### Wanda vs. Scarlet?- 
+The writers of Multiverse of Madness either did not watch WandaVision or they only watched the end credit scene. In that that scene, the darkhold starts to influence Wanda. Some may 
 
+
+https://c.tenor.com/Xzor7ePKzioAAAAd/wandavision-wanda.gif
 
 ### Future..? - 
