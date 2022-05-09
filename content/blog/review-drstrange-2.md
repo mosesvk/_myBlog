@@ -49,7 +49,10 @@ The writers of Multiverse of Madness either did not watch WandaVision or they on
 
 ###### ![](https://c.tenor.com/Xzor7ePKzioAAAAd/wandavision-wanda.gif)
 
-The Illuminati was only brought to the movie for two reasons: for fan service and to show how powerful and evil Wanda has become... But why? We already know Wanda is incredibly strong from WandaVision. We see her create a completely different reality with ease. 
+
+### Illumi-whati? - 
+
+The Illuminati was only brought to the movie for two reasons: for fan service and to show how powerful and evil Wanda has become... But why? We already know Wanda is incredibly strong from WandaVision. We see her create a completely different reality with ease. Yes, the reveal of John Krasinski and John Stewart was epic, but their immediate demise to Scarlet Witch was a waste. It deflates the excitement of possibily seeing them in a future Fantastic Four or X-MEN movie. 
 
 
 ### Future..? - 
