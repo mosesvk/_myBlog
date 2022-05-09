@@ -47,9 +47,9 @@ Ponytail Strange was willing to sacrifice an innocent America Chavez for the fat
 ### Wanda vs. Scarlet?- 
 The writers of Multiverse of Madness either did not watch WandaVision or they only watched the end credit scene. In that that scene, the darkhold starts to influence Wanda. The movie only credits this scene. It forgets about the whole series explaining what got her to that point. She came to peace about Vision and her sons being gone. But all of a sudden it seems like we rewinded to the beginning of WandaVision.
 
-
-
 ###### ![](https://c.tenor.com/Xzor7ePKzioAAAAd/wandavision-wanda.gif)
+
+The Illuminati was only brought to the movie for two reasons: for fan service and to show how powerful and evil Wanda has become... But why? We already know Wanda is incredibly strong from WandaVision. We see her create a completely different reality with ease. 
 
 
 ### Future..? - 
