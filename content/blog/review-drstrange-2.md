@@ -41,7 +41,9 @@ Ponytail Strange was willing to sacrifice an innocent America Chavez for the fat
 
 <span class='emphasis'>Lesson 1,</span> He was becoming so emotionally detached. When you destroy a whole universe or try to kill an innocent girl for the sake of saving your own universe, you have already crossed to the dark side. Wanda did the same thing but she was too emotionally invested. She needed to let go while Doctor Strange wouldn't hesitate to kill someone as long as he thought it was for a good purpose. 
 
-<span class='emphasis'>Lesson 2,</span>, He cannot always be the only one to save the day. 
+<span class='emphasis'>Lesson 2,</span>, He cannot always be the only one to save the day. Like Christine told him, "You always had to be the one holding the knife". In the end, Doctor Strange relied on America Chavez and encouraged her to believe in herself instead of only relying on himself. 
+
+
 
 
 ### Wanda or Scarlet?- 
