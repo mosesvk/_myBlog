@@ -66,4 +66,4 @@ If there was one flawless aspect of this movie, it would be the imagery and VFX.
 
 
 ### Verdict
-Doctor Strange: in the Multiverse of Madness is a fun movie. When you ignore the disconnectivity of the plot
+Doctor Strange: in the Multiverse of Madness is a fun movie. When you ignore the disconnectivity of the plot and average character development, the movie takes you on a roller coaster ride. It's not a great movie, but it's not terrible either. Where exactly does it belong in the middle? I would say closer to good movie. 
