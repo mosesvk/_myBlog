@@ -47,6 +47,8 @@ Ponytail Strange was willing to sacrifice an innocent America Chavez for the fat
 ### Wanda vs. Scarlet?
 The writers of Multiverse of Madness either did not watch WandaVision or they only watched the end credit scene. In that that scene, the darkhold starts to influence Wanda. The movie only credits this scene. It forgets about the whole series explaining what got her to that point. She came to peace about Vision and her sons being gone. But all of a sudden it seems like we rewinded to the beginning of WandaVision.
 
+Elizabeth Olsen, though, was amazing. She plays the Scarlet Witch and Wanda very well. She can go from being a heartwarming mother to a horrific witch. I hope they keep her for a lot of future marvel projects. 
+
 ###### ![](https://c.tenor.com/Xzor7ePKzioAAAAd/wandavision-wanda.gif)
 
 
@@ -58,4 +60,10 @@ I also thought America Chavez was not really needed for the story. It seemed lik
 
 
 ### the Visual Spectacle - 
-If there was one flawless aspect of this movie, it would be the imagery and VFX. The colors and graphics made the movie very fun to watch. The scene where Doctor Strange and America Chavez go through different 
+If there was one flawless aspect of this movie, it would be the imagery and VFX. The colors and graphics made the movie very fun to watch. The scene where Doctor Strange and America Chavez go through the different universes is awesome. But again, that was already shown in the trailer. The Music was also a great part of the movie. Danny Elfman has a subtle but strong impact to the soundtrack.
+
+![](https://c.tenor.com/sOrq0MF0ezEAAAAd/doctor-strange-multiverse-of-madness.gif)
+
+
+### Verdict
+Doctor Strange: in the Multiverse of Madness is a fun movie. When you ignore the disconnectivity of the plot
