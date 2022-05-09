@@ -39,8 +39,9 @@ Ponytail Strange was willing to sacrifice an innocent America Chavez for the fat
 
 ###### ![](https://resize.indiatvnews.com/en/resize/newbucket/715_-/2022/02/doctor-strange-1644804950.jpg)
 
-Lesson 1, He was becoming so emotionally detached. When you destroy a whole universe or try to kill an innocent girl for the sake of saving your own universe, you have already crossed to the dark side. Wanda did the same thing but she was too emotionally invested. She needed to let go while Doctor Strange wouldn't hesitate to kill someone as long as he thought it was for a good purpose. 
+<span class='emphasis'>Lesson 1,</span> He was becoming so emotionally detached. When you destroy a whole universe or try to kill an innocent girl for the sake of saving your own universe, you have already crossed to the dark side. Wanda did the same thing but she was too emotionally invested. She needed to let go while Doctor Strange wouldn't hesitate to kill someone as long as he thought it was for a good purpose. 
 
+<span class='emphasis'>Lesson 2,</span>, He cannot always be the only one to save the day. 
 
 
 ### Wanda or Scarlet?- 
