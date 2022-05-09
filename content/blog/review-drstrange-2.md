@@ -21,7 +21,7 @@ Visuals | 8
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=aWzlQ2N6qqg
-" target="_blank"><img src="http://img.youtube.com/vi/aWzlQ2N6qqg/0.jpg" width="500"/></a>
+" target="_blank" id="pointer"><img src="http://img.youtube.com/vi/aWzlQ2N6qqg/0.jpg" width="500" id="pointer"/></a>
 
 ##### **** Spoilers Ahead ****
 
