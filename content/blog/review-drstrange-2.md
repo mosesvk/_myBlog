@@ -11,10 +11,10 @@ For all my Reviews, I follow four main categories: Plot, Character Cast/Developm
 
 Category | Rating out of 10
 ------------ | ------------
-Plot | 6
+Plot | 4.5
 Character | 4.5
 Pace | 5.5
-Visuals | 8
+Visuals | 9.5
 
 > Overall Rating: 6/10
 <!-- <cite>My Rating</cite> -->
@@ -25,8 +25,13 @@ Visuals | 8
 
 <h4 id='spoiler'>*** Spoiler Warning ***</h4>
 
-### Plot - 
- 
+### Plot - an Undermining Mess
+Multiverse of Madness follows the events of Spiderman: No Way Home. Although, there is no way of you knowing anything of it's consequences. It is also a sequel to the first Dr. Strange, of which we give little nods to here and there. Which makes sense because so much has happened since then (2016). Surprisingly, there are big connections to Avengers: Infinity War. This was the only connection that helped the plot's purpose. Dr. Strange gave up the time stone to Thanos, and because of that, Wanda's Destroying Vision made no difference. Thanos still won, and she had to see Vision die all over again. 
+
+###### ![](https://cdn130.picsart.com/324496039019201.gif?to=crop&type=webp&r=40x40&q=50)
+###### ![](https://media4.giphy.com/media/G1ZPWPIszGDPh2NeG5/giphy.gif)
+
+
 ### Wanda vs. Scarlet - 
 
 ### Plot - 
