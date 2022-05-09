@@ -33,6 +33,10 @@ Multiverse of Madness follows the events of Spiderman: No Way Home. Although, th
 
 But WandaVision really could've been the story to help skyrocket this plot. That series, in my opinion, was a masterpiece. It's storyline and character development were strong and consistent. Wanda was a multi-faceted character who was going through pain and grief. But Multiverse of Madness only gives a five second nod to WandaVision in Dr. Strange and Wanda's conversation at the fake orchard, which was also already shown in the trailer. 
 
+Doctor Strange's storyline was done well and consistent. In the first movie he was learning how "it's not about you..." from the Ancient One. He had to humble himself and surrender his pride to fully grasp his power potential. In this movie, Doctor Strange had learned of the hypocrisies of his other variants. 
+
+Ponytail Strange was willing to sacrifice an innocent America Chavez for the fate of the universe. Illuminati Strange used the darkhold to save his universe yet caused an incursion which destroyed another universe. <span id='italic'>Three Eyed</span> Strange used the Darkhold to search for a Christine. 
+
 ### Wanda or Scarlet?- 
 
 
