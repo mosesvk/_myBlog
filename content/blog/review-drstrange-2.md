@@ -23,7 +23,10 @@ Visuals | 8
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=aWzlQ2N6qqg
 " target="_blank" id="pointer"><img src="http://img.youtube.com/vi/aWzlQ2N6qqg/0.jpg" width="500" id="pointer"/></a>
 
-##### **** Spoilers Ahead ****
+<h4 id='spoiler'>*** Spoiler Warning ***</h4>
 
-### Education vs. Learning 
-Going to University was a great experience for me. But none of that experience was beneficial to my learning. Even when I extended my education through a coding bootcamp, I still didn't really "learn" anything. Yes I received an education, but I didn't really learn. "What is the difference?" you might ask. Well there's a huge difference. 
+### Plot - 
+ 
+### Wanda vs. Scarlet - 
+
+### Plot - 
