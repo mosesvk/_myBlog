@@ -35,7 +35,13 @@ But WandaVision really could've been the story to help skyrocket this plot. That
 
 Doctor Strange's storyline was done well and consistent. In the first movie he was learning how "it's not about you..." from the Ancient One. He had to humble himself and surrender his pride to fully grasp his power potential. In this movie, Doctor Strange had learned of the hypocrisies of his other variants. 
 
-Ponytail Strange was willing to sacrifice an innocent America Chavez for the fate of the universe. Illuminati Strange used the darkhold to save his universe yet caused an incursion which destroyed another universe. <span id='italic'>Three Eyed</span> Strange used the Darkhold to search for a Christine. 
+Ponytail Strange was willing to sacrifice an innocent America Chavez for the fate of the universe. Illuminati Strange used the darkhold to save his universe yet caused an incursion which destroyed another universe. <span id='italic'>Three Eyed</span> Strange used the Darkhold to search for a Christine. All of these different Strange's had a purpose, and that purpose was to <span class='emphasis'>teach our Dr. Strange two valuable lessons</span>. 
+
+###### ![](https://resize.indiatvnews.com/en/resize/newbucket/715_-/2022/02/doctor-strange-1644804950.jpg)
+
+Lesson 1, He was becoming so emotionally detached. When you destroy a whole universe or try to kill an innocent girl for the sake of saving your own universe, you have already crossed to the dark side. Wanda did the same thing but she was too emotionally invested. She needed to let go while Doctor Strange wouldn't hesitate to kill someone as long as he thought it was for a good purpose. 
+
+
 
 ### Wanda or Scarlet?- 
 
