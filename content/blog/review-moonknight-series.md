@@ -26,7 +26,9 @@ Visuals | 8
 <h4 id='spoiler'>*** Spoiler Warning ***</h4>
 
 ### Twists & Turns
-Hope this helps someone who is in search of the right career path in their life. This is not strictly for a career path in tech, but about the process of failing and retrying. Looking back on my journey, There were four key concepts that have guided me to my career path. Knowing the true meaning of education, Finding what I love to do trial and failure, Deciding to be decisive, and finding purpose in your work has truly guided me to my career path in Tech
+Moon Knight's episode one is the best opening in any marvel short series. You see the world through Steven's point of view throughout most of the episode. I love the scenes where he switches to another personality when he gets in trouble with Harrow's men. Every episode carefully lays details details for future episodes. 
+
+![](https://c.tenor.com/6IkdjGgw5kIAAAAC/oscar-isaac-khonshu.gif)
 
 ### Oscar's for Oscar
 Oscar Isaac is my favorite part of this show. I would care much for the show if he wasn't it's center piece. I truly believe that Mark, Steven and Jake are completely different people.
