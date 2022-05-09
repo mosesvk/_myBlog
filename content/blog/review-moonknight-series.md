@@ -12,8 +12,8 @@ For all my Reviews, I follow four main categories: Plot, Character Cast/Developm
 
 Category | Rating out of 10
 ------------ | ------------
-Plot | 6
-Character | 4
+Plot | 7
+Character | 7
 Pace | 5
 Visuals | 8
 
