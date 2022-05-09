@@ -37,8 +37,8 @@
           "link": "/categories/entertainment"
         },
         {
-          "name": "Books",
-          "link": "/categories/books"
+          "name": "Productivity",
+          "link": "/categories/productivity"
         }
       ]
     },
@@ -58,10 +58,6 @@
           "name": "Notes",
           "link": "/tags/notes"
         },
-        {
-          "name": "Productivity",
-          "link": "/tags/productivity"
-        }, 
         {
           "name": "Anime",
           "link": "/tags/anime"
