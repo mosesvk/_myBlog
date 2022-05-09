@@ -7,6 +7,20 @@ author: "Moses Kaumatule"
 categories: ["Entertainment"]
 tags: ["TV Shows", "Reviews"]
 ---
+
+For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals. Remember this is just my personal, non-professional opinion...
+
+Category | Rating out of 10
+------------ | ------------
+Plot | 6
+Character | 4
+Pace | 5
+Visuals | 8
+
+> Overall Rating: 6/10
+<!-- <cite>My Rating</cite> -->
+
+
 > You have to go down a lot of wrong paths to find the Right one
 <cite>Not sure who said this</cite>
 
