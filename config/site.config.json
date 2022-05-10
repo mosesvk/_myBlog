@@ -1,15 +1,15 @@
 {
   "metaData": {
-    "title" : "Qurno | Minimal NextJS Blog Template",
-    "description" : "Qurno - a minimal nextjs blog template",
-    "author" : "PlatolTheme",
-    "keyword" : "qurno, minimal, react, nextjs, blog, template",
+    "title" : "MVK | My Blog",
+    "description" : "Moses Kaumatule Blog",
+    "author" : "Moses Kaumautule",
+    "keyword" : "software developer, review, moses, kaumatule, tech, coding, father, family, byu",
     "ogImage" : "https://qurno-nextjs.vercel.app/images/ogimage.jpg"
   },
-  "baseURL" : "https://qurno-nextjs.vercel.app/",
+  "baseURL" : "https://moseskaumatule.blog/",
   "logo" : "/images/logo.png",
-  "logoText" : "Qurno",
+  "logoText" : "Moses",
   "favicon" : "/images/favicon.png",
   "postPerPage" : 6,
-  "copyright" : "© 2022 Qurno. All rights reserved."
+  "copyright" : "© 2022 Moses K. All rights reserved."
 }
