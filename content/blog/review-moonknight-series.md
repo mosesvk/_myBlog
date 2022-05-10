@@ -14,10 +14,10 @@ Category | Rating out of 10
 ------------ | ------------
 Plot | 8
 Character | 9
-Pace | 6
+Pace | 7
 Visuals | 8
 
-> Overall Rating: 7.75/10
+> Overall Rating: 8/10
 <!-- <cite>My Rating</cite> -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=x7Krla_UxRg
@@ -31,8 +31,8 @@ Moon Knight's episode one is the best opening in any marvel short series. You se
 ![](https://c.tenor.com/6IkdjGgw5kIAAAAC/oscar-isaac-khonshu.gif)
 
 ### Oscar's for Oscar
-Oscar Isaac is my favorite part of this show. I would care much for the show if he wasn't it's center piece. I truly believe that Mark, Steven and Jake are completely different people.
+Oscar Isaac is my favorite part of this show. I would not care much for the show if he wasn't in it. He does a great job playing three different personalities to the point where I believe they are three different people. When Steven assumably dies in episode four, I believed a real person died and that was thanks to Oscar's awesome performance. I hope he receives some serious recognition for this performance. 
 
-### Confusing or Mysterious?
-Going to University was a great experience for me. But none of that experience was beneficial to my learning. Even when I extended my education through a coding bootcamp, I still didn't really "learn" anything. Yes I received an education, but I didn't really learn. "What is the difference?" you might ask. Well there's a huge difference. 
+### Moon Knight is not about the Hero
+Moon Knight hardly reveals the actual superhero of whom the show is named after. 
 
