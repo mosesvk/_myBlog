@@ -12,7 +12,7 @@ function blogData() {
       path.join('content/blog', filename),
       'utf8'
     );
-
+      
     const { data: frontMatter } = matter(dirFileContents);
 
     return {

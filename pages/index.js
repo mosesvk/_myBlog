@@ -8,6 +8,7 @@ import { getSinglePage } from '@/libs/getSinglePage';
 import { IconNewSection } from '@tabler/icons';
 
 export default function Home({ authors, posts, banner }) {
+  console.log(posts)
   return (
     <Layout>
       <BannerBlock banner={banner} />
