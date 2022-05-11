@@ -2,7 +2,7 @@
 title: "Review: Doctor Strange: the Multiverse of Madness"
 description: "Was the hype too high for the newest Doctor Strange"
 image: "/images/blog/marvel-drstrange-2.jpg"
-date: "2022-05-06T16:56:47+06:00"
+date: "2022-05-14T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Entertainment"]
 tags: ["Movies", "Reviews"]

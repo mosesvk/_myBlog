@@ -2,7 +2,7 @@
 title: "Coding Bootcamps: Pros & Cons"
 description: "As a former bootcamp grad, there are plenty pros and cons that I want to share."
 image: "/images/blog/code-class2.jpg"
-date: "2022-02-16T16:56:47+06:00"
+date: "2022-04-23T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Tech"]
 tags: ["Thoughts"]
