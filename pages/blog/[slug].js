@@ -11,6 +11,8 @@ import { getAuthors } from '@/libs/getAuthors';
 import { truncateString } from '@/utils/truncateString';
 import siteConfig from '@/config/site.config.json';
 import useScripts from '@/components/Scripts';
+import { LikeButton } from '@lyket/react';
+
 import {
   IconBrandTwitter,
   IconBrandFacebook,
@@ -190,6 +192,11 @@ export default function PostPage({
                   </li>
                 ))}
               </ul>
+
+              <div>
+                <h3>Give this post a Like!</h3>
+                
+              </div>
             </div>
           </div>
         </div>
