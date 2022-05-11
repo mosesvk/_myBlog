@@ -25,7 +25,7 @@ Visuals | 8.5
 
 <h4 id='spoiler'>*** Spoiler Warning ***</h4>
 
-### my Favorite Batman
+### My Favorite Batman Persona
 It's not even close for me. When it comes to the Batman persona itself, Robert Pattinson defeats other batman depictions. There are four main reasons. first His detective skills are far more powerful than a strong punch. The previous Batmen would have lost to the riddler half way through the movie. Second, His voice isn't annoying like the overly hoarse Bale, or the unrealistic tech Affleck. Third, his relationships between Gordon and Batwoman are depicted the best of any other movie. They work together and help move plot in the right direction. Christian Bale's Gordon only complicates the plot. Fourth, He creates his own gear which is realistic and intuitive.
 
 ![](https://64.media.tumblr.com/471fb4d685aa8c76aaaf6b5493772ea7/637c4ead22613852-df/s500x750/9e3fcebb41f6a159c26df74400182e81c34dc41e.gifv)
@@ -33,11 +33,14 @@ It's not even close for me. When it comes to the Batman persona itself, Robert P
 ### Briliant Writing with Dark World Building
 One of the main reasons why this story is so effective, is that it intertwines with it's world building and character development. While the Batman and Gordon are solving the Riddler's clues, they are also developing their relationship through finding more details about Gotham's corruption. While the Batman and Catwoman try and stop Falcone, their characters develop through meeting with the Penguin and other corrupt politicians who are also tied into the plot with the Riddler. It all blends together in a cohesive way. 
 
-The cinematography nailed the "dark" aspect much better than the "dark knight" movie. You could feel the grittiness and dirtiness of the streets. Even when it was daytime, you could steel feel the darkness. Robert Pattinson exemplifies the dark tone of the movie through his brilliant actingd
+The cinematography nailed the "dark" aspect much better than the "dark knight" movie. You could feel the grittiness and dirtiness of the streets. Even when it was daytime, you could steel feel the darkness. Robert Pattinson exemplifies the dark tone of the movie through his brilliant acting. 
+
+Having Robert Pattinson narrate the movie was a strong choice and I loved. The reason I loved it is because you saw the world in the eyes of Bruce Wayne. Quite a few were annoyed with how you saw very little of Bruce, which is true. But his narration caused the viewer to see inside Bruce's head. Which, in times, is better than him just speaking.
 
 ![](https://c.tenor.com/GQBDVhb6ys8AAAAC/this-is-my-city-batman.gif)
 
-### Actors selection was flawless
+### Actors selection was flawless... Almost
+Every Actress and Actor was casted wonderfully. All were exceptional especially Colin Farrel who you'd be surprised was the Penguin. Paul Dano (the Riddler) portrayed a talented multi-faceted serial killer. His motivations and intentions were clear in the movie and I never thought of him as one-dimensional, like most superhero villains. 
 
 ### Verdict
 
