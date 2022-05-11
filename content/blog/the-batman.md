@@ -33,7 +33,9 @@ It's not even close for me. When it comes to the Batman persona itself, Robert P
 ### Briliant Writing with Dark World Building
 One of the main reasons why this story is so effective, is that it intertwines with it's world building and character development. While the Batman and Gordon are solving the Riddler's clues, they are also developing their relationship through finding more details about Gotham's corruption. While the Batman and Catwoman try and stop Falcone, their characters develop through meeting with the Penguin and other corrupt politicians who are also tied into the plot with the Riddler. It all blends together in a cohesive way. 
 
-The cinematography nailed the "dark" aspect much better than the "dark knight" movie. 
+The cinematography nailed the "dark" aspect much better than the "dark knight" movie. You could feel the grittiness and dirtiness of the streets. Even when it was daytime, you could steel feel the darkness. Robert Pattinson exemplifies the dark tone of the movie through his brilliant actingd
+
+![](https://c.tenor.com/GQBDVhb6ys8AAAAC/this-is-my-city-batman.gif)
 
 ### Actors selection was flawless
 
