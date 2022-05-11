@@ -48,6 +48,8 @@ Ethan Hawke (Harrow) and May Calamawy (Layla) were great additions to the cast. 
 ### the Struggling Middle & Fight scenes
 Where the show lost me was in the middle. Episodes 2, 3 and 4 were very bland. I didn't feel like the plot was moving too well. It felt like Marc was just chasing around ancient relics. The fight scenes were also mediocre. The worst fight was against the horsemen. The scene where Steven takes the body and then immediately gives it back to Marc because he was scared was an annoying scene to watch. All of the fight scenes that I wanted to watch were fast forwarded because they were assumably Jake taking over the body. I wish we would've seen at least one of those fights. 
 
+![](https://c.tenor.com/I5CU9AK_u3MAAAAd/moon-knight-i-see-you.gif)
+
 ### Verdict
-Episodes 1 & 5 were the show's saving grace. I love the total aspect of the show. There were only small annoyances here and there but overall, Moon Knight is Marvel's one of a kind. I recommend watching it, and if you're into the Marvel Universe, I recommend watching it multiple times.
+Episodes 1 & 5 were the show's saving grace. The end credit scene of the last episode was also one of the best end credit scenes I've scene. I love the total aspect of the show. There were only small annoyances here and there but overall, Moon Knight is Marvel's one of a kind. I recommend watching it, and if you're into the Marvel Universe, I recommend watching it multiple times.
 
