@@ -39,9 +39,18 @@ Having Robert Pattinson narrate the movie was a strong choice and I loved. The r
 
 ![](https://c.tenor.com/GQBDVhb6ys8AAAAC/this-is-my-city-batman.gif)
 
+Another brilliant part of the movie was having us believe that the Riddler knew who the Batman was. Even in the scene when the Batman was at the insane asylum with the Riddler, he starts to think "Is this it? Is my identity gone?". But the Riddler did not actually know the secret identity at all. He just didn't 
+
 ### Actors selection was flawless... Almost
-Every Actress and Actor was casted wonderfully. All were exceptional especially Colin Farrel who you'd be surprised was the Penguin. Paul Dano (the Riddler) portrayed a talented multi-faceted serial killer. His motivations and intentions were clear in the movie and I never thought of him as one-dimensional, like most superhero villains. 
+Every Actress and Actor was casted wonderfully. All were exceptional especially Colin Farrel who you'd be surprised was the Penguin. Paul Dano (the Riddler) portrayed a talented multi-faceted serial killer. His motivations and intentions were clear in the movie and I never thought of him as one-dimensional, like most superhero villains. There were only two miscasts: Thomas Wayne & Falcone. I didn't feel that those actors really fit with the character. 
+
+### Could've been a little better
+I wish they focused more on the story of Martha Wayne's psychological history. It's something that could've enhanced Bruce Wayne's background. There's no man in his right mind who would want to become the Batman. So maybe Bruce is just a little crazy due to his mama. Whether or not that's true, it would have been something worth getting into.
+
+The third act struggled with the Arena scene. It was a dull fight scene along with anti-climatic action. The only part I love about the arena scene was when they were asking questions to one of Riddler's men, and they said "I am vengeance". You can see Robert Pattinson's great acting with his eyes. He didn't have to say anything, his eyes showed his disappointment in himself as he realized his negative influence. 
+
+![](https://steamuserimages-a.akamaihd.net/ugc/1824514986569441317/84F988320A11BAB884ADF2EABEA95A5E1B770B7D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 ### Verdict
-
+This is the second best Batman movie of all time. It gives a unique and never-before-seen take on the Batman and Gotham. 
 
