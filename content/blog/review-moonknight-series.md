@@ -17,7 +17,7 @@ Character | 9
 Pace | 7
 Visuals/sound | 8
 
-> Overall Rating: 8/10
+> Overall Rating: /10
 <!-- <cite>My Rating</cite> -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=x7Krla_UxRg
