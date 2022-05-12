@@ -25,6 +25,8 @@ Visuals/music | 10
 
 <h4 id='spoiler'>*** Spoiler Warning ***</h4>
 
+### Lived up to the Hype
+Following the fantastic season 1 and amazing Mugen Train arc, the Entertainment arc continues to flourish with it's detailed story telling and flowing animation. This season adds to the already heavy pressure the Hashira holds. You can feel the tension with every episode building on the last. 
 
 ### Education vs. Learning 
 Going to University was a great experience for me. But none of that experience was beneficial to my learning. Even when I extended my education through a coding bootcamp, I still didn't really "learn" anything. Yes I received an education, but I didn't really learn. "What is the difference?" you might ask. Well there's a huge difference. 
