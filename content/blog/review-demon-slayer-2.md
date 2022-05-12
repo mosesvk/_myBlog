@@ -8,7 +8,8 @@ categories: ["Entertainment"]
 tags: ["Anime", "Reviews"]
 ---
 
-Disclaimer: For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/music. Remember this is just my personal, non-professional opinion...
+<p class='red'>Disclaimer: For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/music. Remember this is just my personal, non-professional opinion...</p>
+
 
 Category | Rating out of 10
 ------------ | ------------
@@ -36,8 +37,13 @@ The story enhances every character's development through trial and discovery. Th
 
 Gyutaro & Daki are great villains with a great story which enhance this season's plot. Great backstory on the last episode. I love when a movie or show takes a villain and gets the viewer to feel compassion towards their story. Looking at the upper 6 backstory, you come to understand their motives. You are actually put in their shoes and see why that they made the decisions they made. But what Demon Slayer did great with Gyutaro is that they didn't make him redeemable, but understandable. Gyutaro even admits in the show that he doesn't regret the decision he made and that he would've made the decision over and over again. But seeing how he did it all for his sister was truly heart-felt.
 
-### Teamwork makes the Dream work
-Although Tengen Uzui is not as strong as Rengoku, he was able to work well together with the trio themselves along with his three wives and Nezuko. 
+### Teamwork made the Dream work
+Although Tengen Uzui is not as strong as Rengoku, he was able to work well together with the main trio. Tanjiro did a valiant job at first fighting Daki but the others came to save the day just in time. All characters had a critical part in helping defeat upper moon 6. The last seven episodes were non stop fighting. Each episode, the demon slayers 
+
+![](https://c.tenor.com/B2mEuogkQJ0AAAAd/demon-slayer-entertainment-district-arc.gif)
+
+### Slow Start
+Unlike the first season, this season developed slow from the start. Little progress was done to the plot during the first half. I feel that the writers tried to deepen the relationship between Tanjiro and his allies during these beginning episodes. But instead, it only prolonged the plot and character development
 
 ### Final Fight Delivers 
 
