@@ -1,15 +1,12 @@
 ---
 title: "About"
-description: "This a dummy meta description of about page"
+description: "About Moses Kaumatule"
 
 #intro
 intro:
   title1: "Hi I'm Moses Kaumatule"
-  title2: "I am Software Developer in Utah. I am a husband. A father. And I'm here to share my experiences and appreciations in life. Feel free to skim through."
-  description: "From topics of Family, Coding, Anime, Movies & Shows, This is my personal blog of my favorite things in life.
-
-  
-  From Articles to Reviews, I hope you enjoy going through all of the content."
+  title2: "I am Software Developer in Utah. I'm here to share my experiences and appreciations in life. Feel free to skim through."
+  description: "I Blog about Coding and Reviews."
 
   # about images
   images:

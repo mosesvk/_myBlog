@@ -4,8 +4,8 @@ description: "My Review of the Disney+ Marvel Series: Moon Knight"
 image: "/images/blog/the-batman.jpg"
 date: "2022-03-05T16:56:47+06:00"
 author: "Moses Kaumatule"
-categories: ["Entertainment"]
-tags: ["Movies", "Reviews"]
+categories: ["Reviews"]
+tags: ["Movies", "DC"]
 ---
 
 Disclaimer: For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/sound. Remember this is just my personal, non-professional opinion...

@@ -5,7 +5,7 @@ image: "/images/blog/code-1.jpg"
 date: "2022-05-21T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Coding"]
-tags: ["Life"]
+tags: ["Thoughts"]
 ---
 > You have to go down a lot of wrong paths to find the Right one
 <cite>Not sure who said this</cite>

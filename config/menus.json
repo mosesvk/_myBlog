@@ -25,20 +25,12 @@
           "link": "/categories"
         },
         {
-          "name": "Tech",
-          "link": "/categories/tech"
+          "name": "Coding",
+          "link": "/categories/coding"
         },
         {
-          "name": "Family",
+          "name": "Reviews",
           "link": "/categories/family"
-        },
-        {
-          "name": "Entertainment",
-          "link": "/categories/entertainment"
-        },
-        {
-          "name": "Productivity",
-          "link": "/categories/productivity"
         }
       ]
     },
@@ -47,16 +39,16 @@
       "link": "/tags",
       "submenu": [
         {
-          "name": "Reviews",
-          "link": "/tags/reviews"
+          "name": "Bootcamp",
+          "link": "/tags/bootcamp"
         }, 
         {
-          "name": "Thoughts",
-          "link": "/tags/thoughts"
+          "name": "Learning",
+          "link": "/tags/learning"
         }, 
         {
-          "name": "Notes",
-          "link": "/tags/notes"
+          "name": "Books",
+          "link": "/tags/books"
         },
         {
           "name": "Anime",
@@ -69,6 +61,14 @@
         {
           "name": "TV Shows",
           "link": "/tags/tv-shows"
+        }, 
+        {
+          "name": "Marvel",
+          "link": "/tags/marvel"
+        }, 
+        {
+          "name": "DC",
+          "link": "/tags/dc"
         }
       ]
     },
