@@ -7,14 +7,14 @@ author: "Moses Kaumatule"
 categories: ["Entertainment"]
 tags: ["Movies", "Reviews"]
 ---
-For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals. Remember this is just my personal, non-professional opinion...
+For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/sound. Remember this is just my personal, non-professional opinion...
 
 Category | Rating out of 10
 ------------ | ------------
 Plot | 5
 Character | 4.5
 Pace | 5
-Visuals | 9.5
+Visuals/sound | 9.5
 
 > Overall Rating: 6/10
 <!-- <cite>My Rating</cite> -->

@@ -8,14 +8,14 @@ categories: ["Entertainment"]
 tags: ["TV Shows", "Reviews"]
 ---
 
-For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals. Remember this is just my personal, non-professional opinion...
+For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/sound. Remember this is just my personal, non-professional opinion...
 
 Category | Rating out of 10
 ------------ | ------------
 Plot | 8
 Character | 9
 Pace | 7
-Visuals | 8
+Visuals/sound | 8
 
 > Overall Rating: 8/10
 <!-- <cite>My Rating</cite> -->
