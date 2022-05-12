@@ -46,4 +46,5 @@ Although Tengen Uzui is not as strong as Rengoku, he was able to work well toget
 Unlike the first season, this season developed slow from the start. Little progress was done to the plot during the first half. I feel that the writers tried to deepen the relationship between Tanjiro and his allies during these beginning episodes. But instead, it only prolonged the plot and character development
 
 ### Final Fight Delivers 
+This fight was on another level. 
 
