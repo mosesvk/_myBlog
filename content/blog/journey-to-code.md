@@ -4,7 +4,7 @@ description: "How I went from a dead end job to finding a career that I love"
 image: "/images/blog/code-1.jpg"
 date: "2022-05-21T16:56:47+06:00"
 author: "Moses Kaumatule"
-categories: ["Tech"]
+categories: ["Coding"]
 tags: ["Life"]
 ---
 > You have to go down a lot of wrong paths to find the Right one

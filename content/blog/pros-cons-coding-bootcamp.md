@@ -4,7 +4,7 @@ description: "As a former bootcamp grad, there are plenty pros and cons that I w
 image: "/images/blog/code-class2.jpg"
 date: "2022-04-23T16:56:47+06:00"
 author: "Moses Kaumatule"
-categories: ["Tech"]
+categories: ["Coding"]
 tags: ["Thoughts"]
 ---
 > You have to go down a lot of wrong paths to find the Right one
