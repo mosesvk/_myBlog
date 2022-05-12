@@ -30,14 +30,14 @@ Following the fantastic season 1 and amazing Mugen Train arc, the Entertainment 
 
 The story enhances every character's development through trial and discovery. The fight scenes do not dissapoint. Along with the visuals, the music and sound effects add to the marvelous picture. Seeing Tanjiro and Nezuko grow in this series was awesome. They didn't only grow stronger but their courage and determination grew. Their relationship enhanced while also helping the plot. 
 
-
-
 ### Villianous Beast
 
 ![](https://64.media.tumblr.com/acf0d95bedfc394161730377ec4a7782/21092516772cf431-66/s540x810/6301750cb4049a22597c012c33601eb60fad4180.gifv)
 
-Gyutaro & Daki are great villains with a great story which enhance this season's plot
+Gyutaro & Daki are great villains with a great story which enhance this season's plot. Great backstory on the last episode. I love when a movie or show takes a villain and gets the viewer to feel compassion towards their story. Looking at the upper 6 backstory, you come to understand their motives. You are actually put in their shoes and see why that they made the decisions they made. But what Demon Slayer did great with Gyutaro is that they didn't make him redeemable, but understandable. Gyutaro even admits in the show that he doesn't regret the decision he made and that he would've made the decision over and over again. But seeing how he did it all for his sister was truly heart-felt.
 
+### Teamwork makes the Dream work
+Although Tengen Uzui is not as strong as Rengoku, he was able to work well together with the trio themselves along with his three wives and Nezuko. 
 
-### 
+### Final Fight Delivers 
 
