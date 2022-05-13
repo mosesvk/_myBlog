@@ -1,7 +1,7 @@
 ---
 title: "Review: Demon Slayer Entertainment District Arc"
 description: "My Review of the second season of Demon Slayer"
-image: "/images/blog/demon-slayer-2.jpg"
+image: "/images/blog/review-anime-demon-slayer-2.jpg"
 date: "2022-04-09T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]

@@ -1,7 +1,7 @@
 ---
 title: "Review: Atomic Habits"
 description: "by JAMES CLEAR"
-image: "/images/blog/atomic-habits.jpg"
+image: "/images/blog/review-book-atomic-habits.jpg"
 date: "2022-05-27T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]

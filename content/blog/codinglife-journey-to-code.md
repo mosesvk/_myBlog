@@ -1,7 +1,7 @@
 ---
 title: "My Journey to Software Engineering."
 description: "How I went from a dead end job to finding a career that I love"
-image: "/images/blog/journey-code.jpg"
+image: "/images/blog/coding-journey-code.jpg"
 date: "2022-05-21T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Coding"]

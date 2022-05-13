@@ -1,7 +1,7 @@
 ---
 title: "Review: the Suicide Squad (2022)"
 description: "My Review of James Gunn's remake of the group of not so superhero group"
-image: "/images/blog/suicide-squad.jpg"
+image: "/images/blog/review-dc-suicide-squad.jpg"
 date: "2021-08-05T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]

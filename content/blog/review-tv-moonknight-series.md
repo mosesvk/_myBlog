@@ -1,7 +1,7 @@
 ---
 title: "Review: Moon Knight"
 description: "My Review of the Disney+ Marvel Series: Moon Knight"
-image: "/images/blog/marvel-moonknight.jpg"
+image: "/images/blog/review-marvel-moonknight.jpg"
 date: "2022-05-07T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]

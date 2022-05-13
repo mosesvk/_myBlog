@@ -1,7 +1,7 @@
 ---
 title: '5 Ways to be on Top of Your Coding Bootcamp'
 description: 'How to go from learning code, to teaching your classmates.'
-image: '/images/blog/code-class.jpg'
+image: '/images/blog/coding-five-ways-top-class.jpg'
 date: '2022-04-02T16:56:47+06:00'
 author: 'Moses Kaumatule'
 categories: ['Coding']

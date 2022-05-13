@@ -1,7 +1,7 @@
 ---
 title: "Review: the Batman (2022)"
 description: "My Review of the Disney+ Marvel Series: Moon Knight"
-image: "/images/blog/the-batman.jpg"
+image: "/images/blog/review-dc-the-batman.jpg"
 date: "2022-03-05T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]
