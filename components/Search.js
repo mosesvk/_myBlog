@@ -156,23 +156,6 @@ export default function Search() {
           )}
         </div>
 
-        <div className="mt-4 pt-3 card-meta">
-          <p className="h4 mb-3">See posts by tags</p>
-          <ul className="card-meta-tag list-inline">
-            {uniqueTags.map((item, i) => (
-              <li
-                key={i}
-                className="list-inline-item me-1 mb-2"
-                onClick={() => resetSearchInput(true)}
-              >
-                <Link href={`/tags/${item.replace(/ /g, '-').toLowerCase()}`}>
-                  <a className="small">{item}</a>
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </div>
-
         <div className="mt-4 card-meta">
           <p className="h4 mb-3">See posts by categories</p>
           <ul className="card-meta-tag list-inline">
@@ -191,6 +174,24 @@ export default function Search() {
             ))}
           </ul>
         </div>
+
+        <div className="mt-4 pt-3 card-meta">
+          <p className="h4 mb-3">See posts by tags</p>
+          <ul className="card-meta-tag list-inline">
+            {uniqueTags.map((item, i) => (
+              <li
+                key={i}
+                className="list-inline-item me-1 mb-2"
+                onClick={() => resetSearchInput(true)}
+              >
+                <Link href={`/tags/${item.replace(/ /g, '-').toLowerCase()}`}>
+                  <a className="small">{item}</a>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+
       </div>
     </>
   );

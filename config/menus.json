@@ -30,7 +30,7 @@
         },
         {
           "name": "Reviews",
-          "link": "/reviews"
+          "link": "/categories/reviews"
         }
       ]
     },
@@ -39,16 +39,20 @@
       "link": "/tags",
       "submenu": [
         {
+          "name": "All",
+          "link": "/tags"
+        }, 
+        {
           "name": "Coding Bootcamp",
-          "link": "/tags/bootcamp"
+          "link": "/tags/coding-bootcamp"
         }, 
         {
           "name": "Coding Tips",
-          "link": "/tags/tips"
+          "link": "/tags/coding-tips"
         }, 
         {
           "name": "Coding Life",
-          "link": "/tags/life"
+          "link": "/tags/coding-life"
         }, 
         {
           "name": "Books",
