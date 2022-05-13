@@ -39,12 +39,16 @@
       "link": "/tags",
       "submenu": [
         {
-          "name": "Bootcamp",
+          "name": "Coding Bootcamp",
           "link": "/tags/bootcamp"
         }, 
         {
-          "name": "Learning",
-          "link": "/tags/learning"
+          "name": "Coding Tips",
+          "link": "/tags/tips"
+        }, 
+        {
+          "name": "Coding Experience",
+          "link": "/tags/experience"
         }, 
         {
           "name": "Books",

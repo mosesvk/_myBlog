@@ -5,7 +5,7 @@ image: '/images/blog/code-class.jpg'
 date: '2022-04-02T16:56:47+06:00'
 author: 'Moses Kaumatule'
 categories: ['Coding']
-tags: ['Productivity', 'Bootcamp']
+tags: ['Productivity', 'Coding Bootcamp', 'Coding Tips']
 ---
 
 ![alt text](https://media0.giphy.com/media/snEeOh54kCFxe/giphy.webp?cid=ecf05e479pk5sx24yste9nt045dvxb0r5ociu2wkoonar86y&rid=giphy.webp&ct=g)
