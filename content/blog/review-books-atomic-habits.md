@@ -1,8 +1,8 @@
 ---
-title: "Review: Make Time"
-description: "by JAKE KNAPP & JOHN ZERATSKY"
-image: "/images/blog/make-time.jpg"
-date: "2022-05-21T16:56:47+06:00"
+title: "Review: Atomic Habits"
+description: "by JAMES CLEAR"
+image: "/images/blog/atomic-habits.jpg"
+date: "2022-05-27T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]
 tags: ["Books"]
