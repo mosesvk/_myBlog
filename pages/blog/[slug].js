@@ -23,20 +23,33 @@ import {
   IconClock,
   IconArrowUpRight,
 } from '@tabler/icons';
+import StarRating from '@/components/StarRating';
 
 export default function PostPage({
   slug,
   content,
-  frontMatter: { title, author, date, image, description, tags, categories },
+  frontMatter: {
+    title,
+    author,
+    date,
+    image,
+    description,
+    tags,
+    categories,
+    ratingPlot,
+    ratingCharacter,
+    ratingPace,
+    ratingVisual,
+  },
   authors,
-  apiKey
+  apiKey,
 }) {
   let pageUrl = `${siteConfig.baseURL.replace(/\/$|$/, '/')}blog/${slug}`;
   return (
     <Provider apiKey={apiKey}>
       <Layout metaTitle={title} metaDescription={description} ogImage={image}>
         <section className='section-sm pb-0'>
-          <div className='container'>
+          <div className='container p-0'>
             <div className='row justify-content-center'>
               <div className='col-lg-10'>
                 <div className='mb-5'>
@@ -166,6 +179,17 @@ export default function PostPage({
               </div>
               <div className='col-lg-8 post-content-block order-0 order-lg-2'>
                 {/* THIS IS THE CONTENT */}
+                {ratingPlot &&
+                  ratingCharacter &&
+                  ratingPace &&
+                  ratingVisual && (
+                    <StarRating
+                      starsPlot={ratingPlot}
+                      starsCharacter={ratingCharacter}
+                      starsPace={ratingPace}
+                      starsVisual={ratingVisual}
+                    />
+                  )}
                 <div
                   className='content'
                   dangerouslySetInnerHTML={{ __html: marked.parse(content) }}
@@ -244,7 +268,7 @@ export async function getStaticProps({ params: { slug } }) {
       frontMatter,
       content,
       authors: getAuthors(),
-      apiKey: process.env.LYKET_PUBLIC_TOKEN
+      apiKey: process.env.LYKET_PUBLIC_TOKEN,
     },
   };
 }

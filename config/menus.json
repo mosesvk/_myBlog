@@ -21,10 +21,6 @@
       "link": "/categories",
       "submenu": [
         {
-          "name": "All",
-          "link": "/categories"
-        },
-        {
           "name": "Coding",
           "link": "/categories/coding"
         },

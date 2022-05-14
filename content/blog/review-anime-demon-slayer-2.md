@@ -6,20 +6,14 @@ date: "2022-04-09T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]
 tags: ["Anime", "TV Shows"]
+ratingPlot: 4.5 
+ratingCharacter: 4.6
+ratingPace: 4.1
+ratingVisual: 4.7
 ---
 
 <p class='red'>Disclaimer: For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/music. Remember this is just my personal, non-professional opinion...</p>
 
-
-Category | Rating out of 10
------------- | ------------
-Plot | 9
-Character | 9.5
-Pace | 7.5
-Visuals/music | 10
-
-> Overall Rating: 9/10
-<!-- <cite>My Rating</cite> -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=t6MXHczeEqc
 " target="_blank" id="pointer"><img src="http://img.youtube.com/vi/t6MXHczeEqc/0.jpg" width="500" id="pointer"/></a>

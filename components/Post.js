@@ -9,10 +9,11 @@ export default function Post({
   post: {
     slug,
     content,
-    frontMatter: { title, image, date, author, description, tags },
+    frontMatter: { title, image, date, author, description, tags, rating },
   },
   authors,
 }) {
+
   return (
     <>
       <article className="card post-card h-100 border-0 bg-transparent">

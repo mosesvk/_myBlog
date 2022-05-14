@@ -4,7 +4,7 @@ import { formatDate } from '@/utils/formatDate';
 import { IconX } from '@tabler/icons';
 import { useEffect, useState, useContext } from 'react';
 import { AppContext } from '@/components/UseContext';
-import { posts } from '../cache/data';
+import { posts } from './cache/data';
 
 export default function Search() {
   const { toggleSearch } = useContext(AppContext);
