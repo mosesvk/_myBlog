@@ -40,6 +40,7 @@ export default function PostPage({
     ratingCharacter,
     ratingPace,
     ratingVisual,
+    pros
   },
   authors,
   apiKey,
@@ -188,6 +189,7 @@ export default function PostPage({
                       starsCharacter={ratingCharacter}
                       starsPace={ratingPace}
                       starsVisual={ratingVisual}
+                      pros={pros}
                     />
                   )}
                 <div

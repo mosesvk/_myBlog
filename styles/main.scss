@@ -309,6 +309,7 @@
 
 
 $breakpoint-alpha: 480px; // adjust to your needs
+$largeWindow: 900px;
 
 .rwd-table {
   margin: 1em 0;
@@ -394,6 +395,10 @@ h1 {
   color: #fff;
   border-radius: .4em;
   overflow: hidden;
+  margin-bottom: 25px;
+  // @media(min-width: $largeWindow) {
+  //   width: 450px;
+  // }
   tr {
     border-color: lighten($dark, 10%);
   }

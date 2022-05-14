@@ -103,7 +103,7 @@ export default function StarRating({
         </tr>
       </table>
 
-      <div className='w-100 m-5'>
+      <div className='w-100 mx-2 my-2'>
         <h4 className='text-white mx-2'>Overall: </h4>
         <div className='stars-gray mx-2'>
           <div className='stars-yellow' style={starsOverallHandler()}></div>

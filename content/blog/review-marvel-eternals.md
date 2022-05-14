@@ -6,19 +6,11 @@ date: "2021-11-13T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]
 tags: ["Movies", "Marvel"]
+ratingPlot: 3.2
+ratingCharacter: 3.5
+ratingPace: 3.1
+ratingVisual: 4.4
 ---
-For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/sound. Remember this is just my personal, non-professional opinion...
-
-Category | Rating out of 10
------------- | ------------
-Plot | 6
-Character | 6
-Pace | 5.5
-Visuals/sound | 9
-
-> Overall Rating: 6/10
-<!-- <cite>My Rating</cite> -->
-
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=x_me3xsvDgk
 " target="_blank" id="pointer"><img src="https://wdwnt.com/wp-content/uploads/2021/05/Eternals-2636659-1155x720.jpg" width="500" id="pointer"/></a>

@@ -21,11 +21,11 @@ export default function Home({ authors, posts, banner, apikey }) {
           </div>
         </div>
         <div className='row gy-5 gx-4 g-xl-5'>
-          {posts.map((post, i) => (
+          {/* {posts.map((post, i) => (
             <div key={i} className='col-lg-6'>
               <Post post={post} authors={authors} />
             </div>
-          ))}
+          ))} */}
 
           <div className='col-12 text-center'>
             <Link href={`/blog`}>

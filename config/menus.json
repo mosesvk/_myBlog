@@ -9,70 +9,51 @@
       "link": "/about"
     },
     {
-      "name": "Blog",
-      "link": "/blog"
-    },
-    {
       "name": "Archive",
       "link": "/blog/archive"
     },
     {
-      "name": "Categtories",
-      "link": "/categories",
+      "name": "Coding",
+      "link": "/categories/coding",
       "submenu": [
         {
-          "name": "Coding",
+          "name": "All",
           "link": "/categories/coding"
         },
         {
-          "name": "Reviews",
-          "link": "/categories/reviews"
+          "name": "Bootcamp",
+          "link": "/tags/coding-bootcamp"
+        },
+        {
+          "name": "Tips",
+          "link": "/tags/coding-tips"
+        },
+        {
+          "name": "Journey",
+          "link": "/tags/coding-life"
         }
       ]
     },
     {
-      "name": "Tags",
-      "link": "/tags",
+      "name": "Reviews",
+      "link": "/categories/reviews",
       "submenu": [
         {
           "name": "All",
-          "link": "/tags"
-        }, 
-        {
-          "name": "Coding Bootcamp",
-          "link": "/tags/coding-bootcamp"
-        }, 
-        {
-          "name": "Coding Tips",
-          "link": "/tags/coding-tips"
-        }, 
-        {
-          "name": "Coding Life",
-          "link": "/tags/coding-life"
-        }, 
-        {
-          "name": "Books",
-          "link": "/tags/books"
+          "link": "/categories/reviews"
         },
-        {
-          "name": "Anime",
-          "link": "/tags/anime"
-        }, 
         {
           "name": "Movies",
           "link": "/tags/movies"
-        }, 
+        },
         {
           "name": "TV Shows",
           "link": "/tags/tv-shows"
-        }, 
+        }
+        ,
         {
-          "name": "Marvel",
-          "link": "/tags/marvel"
-        }, 
-        {
-          "name": "DC",
-          "link": "/tags/dc"
+          "name": "Anime",
+          "link": "/tags/anime"
         }
       ]
     },
