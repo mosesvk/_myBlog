@@ -2,7 +2,7 @@
 title: "Review: Make Time"
 description: "by JAKE KNAPP & JOHN ZERATSKY"
 image: "/images/blog/review-book-make-time.jpg"
-date: "2022-05-21T16:56:47+06:00"
+date: "2022-01-21T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]
 tags: ["Books"]

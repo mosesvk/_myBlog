@@ -20,8 +20,8 @@ Visuals/sound | 10
 > Overall Rating: 8.75/10
 <!-- <cite>My Rating</cite> -->
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=mqqft2x_Aa4
-" target="_blank" id="pointer"><img src="https://static.wikia.nocookie.net/c483021d-56b4-43d1-87ed-d5fcd0cddfc2" width="500" id="pointer"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Z1EbSXxrZ34
+" target="_blank" id="pointer"><img src="https://i.ytimg.com/vi/r41n7dOcEf0/maxresdefault.jpg" width="500" id="pointer"/></a>
 
 <h4 id='spoiler'>*** Spoiler Warning ***</h4>
 
