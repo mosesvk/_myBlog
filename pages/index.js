@@ -15,9 +15,9 @@ export default function Home({ authors, posts, banner, apikey }) {
       <div className='container'>
         <div className='row'>
           <div className='col-12 text-center'>
-            <h2 className='section-title'>
+            {/* <h2 className='section-title'>
               <span>Recent posts</span>
-            </h2>
+            </h2> */}
           </div>
         </div>
         <div className='row gy-5 gx-4 g-xl-5'>
@@ -28,14 +28,14 @@ export default function Home({ authors, posts, banner, apikey }) {
           ))} */}
 
           <div className='col-12 text-center'>
-            <Link href={`/blog`}>
+            {/* <Link href={`/blog`}>
               <a className='btn btn-primary mt-5' aria-label='View all posts'>
                 <i className='me-2'>
                   <IconNewSection size={16} />
                 </i>
                 View all posts
               </a>
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>

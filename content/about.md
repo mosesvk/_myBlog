@@ -4,7 +4,7 @@ description: "About Moses"
 
 #intro
 intro:
-  title1: "Hi I'm Moses Kaumatule"
+  title1: "About Me"
   title2: "I am Software Developer in Utah. I'm here to share my experiences and appreciations in life. Feel free to skim through."
   description: "This is a blog dedicated to Coding and Reviews. I review movies, tv shows, and books."
 
