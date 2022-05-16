@@ -8,17 +8,6 @@ categories: ["Reviews"]
 tags: ["TV Shows", "Marvel"]
 ---
 
-For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/sound. Remember this is just my personal, non-professional opinion...
-
-Category | Rating out of 10
------------- | ------------
-Plot | 8
-Character | 9
-Pace | 7
-Visuals/sound | 8
-
-> Overall Rating: /10
-<!-- <cite>My Rating</cite> -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=x7Krla_UxRg
 " target="_blank" id="pointer"><img src="http://img.youtube.com/vi/x7Krla_UxRg/0.jpg" width="500" id="pointer"/></a>

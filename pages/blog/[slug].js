@@ -200,8 +200,11 @@ export default function PostPage({
                   </ul>
                 </div>
               </div>
+
+              {/* THIS IS THE CONTENT */}
+
               <div className='col-lg-8 post-content-block order-0 order-lg-2'>
-                {/* THIS IS THE CONTENT */}
+
                 {ratingPlot &&
                   ratingCharacter &&
                   ratingPace &&
