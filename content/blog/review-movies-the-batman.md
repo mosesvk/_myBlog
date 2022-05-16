@@ -6,19 +6,17 @@ date: "2022-03-05T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]
 tags: ["Movies", "DC"]
+ratingPlot: 4.6
+ratingCharacter: 4.5
+ratingPace: 4.5
+ratingVisual: 4.6
+pros1: "the Riddler's clues create a strong story plot that develops the Batman character well"
+pros2: "Visuals of Gotham display a true dark and grittiness"
+pros3: "Robert Pattinson is the best Batman persona but struggles with Bruce Wayne but I think that's the point"
+cons1: "Arena Fight scene was anti-climatic"
+cons2: "Flooding Gotham was a weak choice as we don't have a strong tie to the city... yet."
+cons3: ""
 ---
-
-Disclaimer: For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/sound. Remember this is just my personal, non-professional opinion...
-
-Category | Rating out of 10
------------- | ------------
-Plot | 9.5
-Character | 9
-Pace | 8
-Visuals/sound | 8.5
-
-> Overall Rating: 8.75/10
-<!-- <cite>My Rating</cite> -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=mqqft2x_Aa4
 " target="_blank" id="pointer"><img src="https://static.wikia.nocookie.net/c483021d-56b4-43d1-87ed-d5fcd0cddfc2" width="500" id="pointer"/></a>

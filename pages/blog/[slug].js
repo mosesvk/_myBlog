@@ -71,8 +71,8 @@ export default function PostPage({
   return (
     <Provider apiKey={apiKey}>
       <Layout metaTitle={title} metaDescription={description} ogImage={image}>
-        <section className='section-sm p-0'>
-          <div className='container p-0'>
+        <section className='section-sm py-5'>
+          <div className='container py-0'>
             <div className='row justify-content-center'>
               <div className='col-lg-10'>
                 <div className='mb-5'>

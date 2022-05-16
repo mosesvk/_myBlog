@@ -6,13 +6,21 @@ date: "2022-05-07T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]
 tags: ["TV Shows", "Marvel"]
+ratingPlot: 4.4
+ratingCharacter: 4.6
+ratingPace: 3.9
+ratingVisual: 4.4
+pros1: "Powerful main cast led by the great Oscar Isaac"
+pros2: "the First Episode sets a high tone for the rest of the series"
+pros3: "Oscar Isaac creates three completely different characters where you would believe as separate beings"
+cons1: "The pace struggled in the middle of the series"
+cons2: "Did not see the actual MoonKnight superhero very much"
+cons3: ""
 ---
-
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=x7Krla_UxRg
 " target="_blank" id="pointer"><img src="http://img.youtube.com/vi/x7Krla_UxRg/0.jpg" width="500" id="pointer"/></a>
 
-<h4 id='spoiler'>*** Spoiler Warning ***</h4>
 
 ### Twists & Turns
 Moon Knight's episode one is the best opening in any marvel short series. You see the world through Steven's point of view throughout most of the episode. I love the scenes where he switches to another personality when he gets in trouble with Harrow's men. Every episode carefully lays details details for future episodes. 

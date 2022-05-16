@@ -21,7 +21,6 @@ cons3: ""
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=aWzlQ2N6qqg
 " target="_blank" id="pointer"><img src="http://img.youtube.com/vi/aWzlQ2N6qqg/0.jpg" width="500" id="pointer"/></a>
 
-<h4 id='spoiler'>*** Spoiler Warning ***</h4>
 
 ### Undermining Mess
 Multiverse of Madness follows the events of Spiderman: No Way Home. Although, there is no way of you knowing anything of it's consequences. It is also a sequel to the first Dr. Strange, of which we give little nods to here and there. Which makes sense because so much has happened since then (2016). Surprisingly, there are big connections to Avengers: Infinity War. This was the only connection that helped the plot's purpose. Dr. Strange gave up the time stone to Thanos, and because of that, Wanda's Destroying Vision made no difference. Thanos still won, and she had to see Vision die all over again. 
