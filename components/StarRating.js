@@ -87,7 +87,7 @@ export default function StarRating({
           <th>Rating</th>
         </tr>
         <tr>
-          <td data-th='Category'>Plot</td>
+          <td data-th='Category' className='bold'>Plot</td>
           <td data-th='Rating'>
             <div className='stars-gray mx-2'>
               <div className='stars-yellow' style={starsPlotHandler()}></div>
@@ -96,7 +96,7 @@ export default function StarRating({
           </td>
         </tr>
         <tr>
-          <td data-th='Category'>Characters</td>
+          <td data-th='Category' className='bold'>Characters</td>
           <td data-th='Rating'>
             {' '}
             <div className='stars-gray mx-2'>
@@ -109,7 +109,7 @@ export default function StarRating({
           </td>
         </tr>
         <tr>
-          <td data-th='Category'>Pace</td>
+          <td data-th='Category' className='bold'>Pace</td>
           <td data-th='Rating'>
             <div className='stars-gray mx-2'>
               <div className='stars-yellow' style={starsPaceHandler()}></div>
@@ -118,7 +118,7 @@ export default function StarRating({
           </td>
         </tr>
         <tr>
-          <td data-th='Category'>Visual / Sound</td>
+          <td data-th='Category' className='bold'>Visual / Sound</td>
           <td data-th='Rating'>
             <div className='stars-gray mx-2'>
               <div className='stars-yellow' style={starsVisualHandler()}></div>
@@ -128,9 +128,9 @@ export default function StarRating({
         </tr>
       </table>
 
-      <div className='w-100 mx-2 my-2'>
-        <h4 className='text-white mx-2'>Overall: </h4>
-        <div className='stars-gray mx-2'>
+      <div className='w-100 mx-4 my-3'>
+        <h4 className='text-white mx-2'>OVERALL: </h4>
+        <div id='overallStars'  className='stars-gray mx-2'>
           <div className='stars-yellow' style={starsOverallHandler()}></div>
         </div>
         {starsOverall.toFixed(1)}
