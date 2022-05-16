@@ -6,19 +6,17 @@ date: "2022-05-14T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]
 tags: ["Movies", "Marvel"]
+ratingPlot: 4.1
+ratingCharacter: 4.3
+ratingPace: 3.8
+ratingVisual: 4.5
+pros1: "Visual Spectacle. Great picture and sound"
+pros2: "Elizabeth Olsen carries the movie with her great take on the Scarlet Witch"
+pros3: ""
+cons1: "America Chavez shouldn't have been intregal to the story. She's a great character but I didn't think the whole plot should've been reliant on her"
+cons2: "WandaVision plot was ignored in this movie"
+cons3: ""
 ---
-For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/sound. Remember this is just my personal, non-professional opinion...
-
-Category | Rating out of 10
------------- | ------------
-Plot | 5
-Character | 4.5
-Pace | 5
-Visuals/sound | 9.5
-
-> Overall Rating: 6/10
-<!-- <cite>My Rating</cite> -->
-
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=aWzlQ2N6qqg
 " target="_blank" id="pointer"><img src="http://img.youtube.com/vi/aWzlQ2N6qqg/0.jpg" width="500" id="pointer"/></a>

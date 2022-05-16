@@ -40,12 +40,20 @@ export default function PostPage({
     ratingCharacter,
     ratingPace,
     ratingVisual,
-    pros
+    pros1,
+    pros2,
+    pros3,
+    cons1, 
+    cons2,
+    cons3
   },
   authors,
   apiKey,
 }) {
   let pageUrl = `${siteConfig.baseURL.replace(/\/$|$/, '/')}blog/${slug}`;
+  const pros = [pros1, pros2, pros3]
+  const cons = [cons1, cons2, cons3]
+
   return (
     <Provider apiKey={apiKey}>
       <Layout metaTitle={title} metaDescription={description} ogImage={image}>
@@ -190,6 +198,7 @@ export default function PostPage({
                       starsPace={ratingPace}
                       starsVisual={ratingVisual}
                       pros={pros}
+                      cons={cons}
                     />
                   )}
                 <div

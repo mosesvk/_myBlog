@@ -3,11 +3,14 @@ export default function StarRating({
   starsCharacter,
   starsPace,
   starsVisual,
+  pros,
+  cons,
 }) {
   // Star maximum
   const maxStars = 5;
   const starsOverall =
     (starsPlot + starsCharacter + starsPace + starsVisual) / 4;
+  console.log(pros);
 
   // Get the entire value
   const starPlotPercentage = (starsPlot / maxStars) * 100;
@@ -21,7 +24,7 @@ export default function StarRating({
   const starCharacterPercentageRounded = Math.round(starCharacterPercentage);
   const starPacePercentageRounded = Math.round(starPacePercentage);
   const starVisualPercentageRounded = Math.round(starVisualPercentage);
-  const starOverallPercentageRounded = Math.round(starsOverallPercentage)
+  const starOverallPercentageRounded = Math.round(starsOverallPercentage);
 
   const starsPlotHandler = () => {
     return {
@@ -55,6 +58,28 @@ export default function StarRating({
 
   return (
     <div className='rwd-table'>
+      <div className='m-2 flex'>
+        <div className='w-50 px-2'>
+          <p>Highlights:</p>
+          <ul>
+            {pros.map((proItem, idx) => {
+              if (proItem != "") {
+                return <li className='py-1' key={idx}>{proItem}</li>
+              }
+            })}
+          </ul>
+        </div>
+        <div className='w-50 px-2'>
+          <p>Lowlights:</p>
+          <ul>
+            {cons.map((conItem, idx) => {
+              if (conItem != "") {
+                return <li className='py-1' key={idx}>{conItem}</li>
+              }
+            })}
+          </ul>
+        </div>
+      </div>
 
       <table className='w-100'>
         <tr>
@@ -110,7 +135,6 @@ export default function StarRating({
         </div>
         {starsOverall.toFixed(1)}
       </div>
-
     </div>
   );
 }
