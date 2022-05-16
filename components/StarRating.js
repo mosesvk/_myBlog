@@ -58,23 +58,23 @@ export default function StarRating({
 
   return (
     <div className='rwd-table'>
-      <div className='m-2 flex'>
-        <div className='w-50 px-2'>
-          <p>Highlights:</p>
+      <div className='m-2 font-weight-bold row '>
+        <div className='p-2 col-md text-green'>
+          <h5 className='m-0 bold'>HIGHLIGHTS:</h5>
           <ul>
             {pros.map((proItem, idx) => {
               if (proItem != "") {
-                return <li className='py-1' key={idx}>{proItem}</li>
+                return <li className='py-1 bold' key={idx}>{proItem}</li>
               }
             })}
           </ul>
         </div>
-        <div className='w-50 px-2'>
-          <p>Lowlights:</p>
+        <div className='p-2 col-md text-red'>
+          <h5 className='m-0 bold'>LOWLIGHTS:</h5>
           <ul>
             {cons.map((conItem, idx) => {
               if (conItem != "") {
-                return <li className='py-1' key={idx}>{conItem}</li>
+                return <li className='py-1 bold' key={idx}>{conItem}</li>
               }
             })}
           </ul>

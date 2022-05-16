@@ -43,21 +43,35 @@ export default function PostPage({
     pros1,
     pros2,
     pros3,
-    cons1, 
+    cons1,
     cons2,
-    cons3
+    cons3,
   },
   authors,
   apiKey,
 }) {
   let pageUrl = `${siteConfig.baseURL.replace(/\/$|$/, '/')}blog/${slug}`;
-  const pros = [pros1, pros2, pros3]
-  const cons = [cons1, cons2, cons3]
+  const pros = [pros1, pros2, pros3];
+  const cons = [cons1, cons2, cons3];
+
+  const likePressHandler = () => {
+    const url = 'http://api.lyket.dev/v1/rank/like-buttons';
+
+    fetch(url, {
+      method: 'GET',
+      accept: 'application/json',
+      headers: {
+        Authorization: `bearer ${apiKey}`,
+      },
+    })
+      .then((res) => console.log(res))
+      .catch((err) => console.log(err));
+  };
 
   return (
     <Provider apiKey={apiKey}>
       <Layout metaTitle={title} metaDescription={description} ogImage={image}>
-        <section className='section-sm pb-0'>
+        <section className='section-sm p-0'>
           <div className='container p-0'>
             <div className='row justify-content-center'>
               <div className='col-lg-10'>
@@ -234,10 +248,6 @@ export default function PostPage({
                   ))}
                 </ul>
 
-                <div>
-                  <h5>Give this post a Like!</h5>
-                  <LikeButton id='how-to-reduce-footprint' namespace='post' />
-                </div>
               </div>
             </div>
           </div>

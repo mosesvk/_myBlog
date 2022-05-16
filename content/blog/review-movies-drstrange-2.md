@@ -13,7 +13,7 @@ ratingVisual: 4.5
 pros1: "Visual Spectacle. Great picture and sound"
 pros2: "Elizabeth Olsen carries the movie with her great take on the Scarlet Witch"
 pros3: ""
-cons1: "America Chavez shouldn't have been intregal to the story. She's a great character but I didn't think the whole plot should've been reliant on her"
+cons1: "America Chavez should NOT have been intregal to the story. She's a great character but I didn't think the whole plot should've centered on her."
 cons2: "WandaVision plot was ignored in this movie"
 cons3: ""
 ---
