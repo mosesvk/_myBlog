@@ -3,7 +3,6 @@ import Image from 'next/image';
 import { IconCalendarEvent, IconClock } from '@tabler/icons';
 import { formatDate } from '@/utils/formatDate';
 import { readingTime } from '@/utils/readingTime';
-import { marked } from 'marked';
 
 
 const PostHeading = ({ author, date, image, title, authors, content }) => {

@@ -1,18 +1,14 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import Link from 'next/link';
-import Image from 'next/image';
 import Layout from '@/components/Layout';
 import Sharing from '@/components/Sharing';
 import PostHeading from '@/components/PostHeading';
 import PostContent from '@/components/PostContent'
 
 import { getAuthors } from '@/libs/getAuthors';
-import { truncateString } from '@/utils/truncateString';
 import siteConfig from '@/config/site.config.json';
 import useScripts from '@/components/Scripts';
-import { Provider, LikeButton } from '@lyket/react';
 
 export default function PostPage({
   slug,
@@ -47,7 +43,7 @@ export default function PostPage({
       <section className='section-sm py-5'>
         <div className='container py-0'>
           <div className='row justify-content-center'>
-            {/* POST HEADING COMPONENT */}
+
             <PostHeading 
               author={author}
               date={date}
@@ -60,7 +56,6 @@ export default function PostPage({
             {/* SHARING COMPONENT */}
             <Sharing title={title} pageUrl={pageUrl} />
 
-            {/* THIS IS THE CONTENT */}
             <PostContent
               tags={tags}
               categories={categories}
