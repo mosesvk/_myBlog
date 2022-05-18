@@ -1,11 +1,12 @@
-export default function StarRating({
+
+const StarRating = ({
   starsPlot,
   starsCharacter,
   starsPace,
   starsVisual,
   pros,
   cons,
-}) {
+}) => {
   // Star maximum
   const maxStars = 5;
   const starsOverall =
@@ -138,3 +139,5 @@ export default function StarRating({
     </div>
   );
 }
+
+export default StarRating;
