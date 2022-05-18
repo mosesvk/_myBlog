@@ -1,0 +1,46 @@
+
+
+.rating-container {
+  display: flex;
+  align-items: center;
+}
+
+.rating-value {
+  margin-right: 4px;
+  color: black;
+  margin-left: 5px;
+}
+
+.rating {
+  --star-width: 16px;
+}
+
+.rating {
+  position: relative;
+  width: calc(var(--star-width) * 5);
+  height: var(--star-width);
+}
+
+.rating.lg {
+  --star-width: 40px;
+}
+
+.rating::before,
+.rating::after {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  content: "";
+  display: block;
+}
+
+.rating::before {
+  background: url('/public/static/stars-empty.svg');
+}
+
+.rating::after {
+  z-index: 1;
+  width: calc(var(--value, 2.5) / 5 * 100%);
+  background: url('/public/static/stars-filled.svg');
+  background-size: cover;
+}

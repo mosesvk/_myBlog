@@ -1,7 +1,4 @@
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700');
-
-@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css");
 
 // banner style
 .banner {
@@ -281,38 +278,6 @@
 }
 
 
-// CDN Stars Rating Component
-.stars-gray {
-  position: relative;
-  display: inline-block;
-}
-
-.stars-yellow {
-  position: absolute;
-  top: 0;
-  left: 0;
-  white-space: nowrap;
-  overflow: hidden;
-  width: 0;
-}
-
-.stars-gray::before {
-  content: "\f005 \f005 \f005 \f005 \f005";
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  color: #ccc;
-}
-
-.stars-yellow::before {
-  content: "\f005 \f005 \f005 \f005 \f005";
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  color: #f8ce0b;
-}
-
-
-
-
 $breakpoint-alpha: 480px; // adjust to your needs
 $largeWindow: 900px;
 
@@ -417,6 +382,11 @@ h1 {
     color: #dd5;
   }
 }
+
+
+
+
+
 
 #overallStars {
   font-size: 2rem;
