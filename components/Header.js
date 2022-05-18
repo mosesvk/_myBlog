@@ -2,10 +2,8 @@ import { AppContext } from '@/components/UseContext';
 import { useRouter } from 'next/router';
 import { useContext, useEffect } from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
 import Menu from '@/config/menus.json';
 import Search from '@/components/Search';
-import siteConfig from '@/config/site.config.json';
 import { IconMenu2, IconX } from '@tabler/icons';
 
 export default function Header() {
@@ -66,7 +64,7 @@ export default function Header() {
       navbarPinUnpin();
       stickyNavigation();
     };
-  }, []);
+  }, [setSearchOpen]);
 
   return (
     <>

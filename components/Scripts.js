@@ -10,7 +10,7 @@ const useScript = (url, position, async) => {
     return () => {
       placement.removeChild(script);
     };
-  }, [url]);
+  }, [url, async, position]);
 };
 
 export default useScript;

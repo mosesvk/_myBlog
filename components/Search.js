@@ -6,7 +6,7 @@ import { useEffect, useState, useContext } from 'react';
 import { AppContext } from '@/components/UseContext';
 import { posts } from './cache/data';
 
-export default function Search() {
+const Search = () => {
   const { toggleSearch } = useContext(AppContext);
   const [searchOpen, setSearchOpen] = toggleSearch;
 
@@ -196,3 +196,5 @@ export default function Search() {
     </>
   );
 }
+
+export default Search
