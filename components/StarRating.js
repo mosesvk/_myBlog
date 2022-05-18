@@ -1,3 +1,4 @@
+
 export default function StarRating({
   starsPlot,
   starsCharacter,

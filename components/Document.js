@@ -31,6 +31,7 @@ const Document = ({
       <meta name='twitter:image' content={ogImage} />
       <meta name='twitter:card' content='summary_large_image' />
       <meta name='twitter:description' content={metaDescription} />
+
     </Head>
   );
 };

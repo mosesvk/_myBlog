@@ -1,5 +1,6 @@
 import '@/styles/bootstrap.scss';
 import '@/styles/globals.scss';
+import '@/styles/main.scss';
 import { useState, useEffect } from 'react';
 import { AppContext } from '@/components/UseContext';
 
