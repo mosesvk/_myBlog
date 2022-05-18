@@ -3,11 +3,14 @@ export default function StarRating({
   starsCharacter,
   starsPace,
   starsVisual,
+  pros,
+  cons,
 }) {
   // Star maximum
   const maxStars = 5;
   const starsOverall =
     (starsPlot + starsCharacter + starsPace + starsVisual) / 4;
+  console.log(pros);
 
   // Get the entire value
   const starPlotPercentage = (starsPlot / maxStars) * 100;
@@ -21,7 +24,7 @@ export default function StarRating({
   const starCharacterPercentageRounded = Math.round(starCharacterPercentage);
   const starPacePercentageRounded = Math.round(starPacePercentage);
   const starVisualPercentageRounded = Math.round(starVisualPercentage);
-  const starOverallPercentageRounded = Math.round(starsOverallPercentage)
+  const starOverallPercentageRounded = Math.round(starsOverallPercentage);
 
   const starsPlotHandler = () => {
     return {
@@ -55,6 +58,28 @@ export default function StarRating({
 
   return (
     <div className='rwd-table'>
+      <div className='m-2 font-weight-bold row '>
+        <div className='p-2 col-md text-green'>
+          <h5 className='m-0 bold'>HIGHLIGHTS:</h5>
+          <ul>
+            {pros.map((proItem, idx) => {
+              if (proItem != "") {
+                return <li className='py-1 bold' key={idx}>{proItem}</li>
+              }
+            })}
+          </ul>
+        </div>
+        <div className='p-2 col-md text-red'>
+          <h5 className='m-0 bold'>LOWLIGHTS:</h5>
+          <ul>
+            {cons.map((conItem, idx) => {
+              if (conItem != "") {
+                return <li className='py-1 bold' key={idx}>{conItem}</li>
+              }
+            })}
+          </ul>
+        </div>
+      </div>
 
       <table className='w-100'>
         <tr>
@@ -62,7 +87,7 @@ export default function StarRating({
           <th>Rating</th>
         </tr>
         <tr>
-          <td data-th='Category'>Plot</td>
+          <td data-th='Category' className='bold'>Plot</td>
           <td data-th='Rating'>
             <div className='stars-gray mx-2'>
               <div className='stars-yellow' style={starsPlotHandler()}></div>
@@ -71,7 +96,7 @@ export default function StarRating({
           </td>
         </tr>
         <tr>
-          <td data-th='Category'>Characters</td>
+          <td data-th='Category' className='bold'>Characters</td>
           <td data-th='Rating'>
             {' '}
             <div className='stars-gray mx-2'>
@@ -84,7 +109,7 @@ export default function StarRating({
           </td>
         </tr>
         <tr>
-          <td data-th='Category'>Pace</td>
+          <td data-th='Category' className='bold'>Pace</td>
           <td data-th='Rating'>
             <div className='stars-gray mx-2'>
               <div className='stars-yellow' style={starsPaceHandler()}></div>
@@ -93,7 +118,7 @@ export default function StarRating({
           </td>
         </tr>
         <tr>
-          <td data-th='Category'>Visual / Sound</td>
+          <td data-th='Category' className='bold'>Visual / Sound</td>
           <td data-th='Rating'>
             <div className='stars-gray mx-2'>
               <div className='stars-yellow' style={starsVisualHandler()}></div>
@@ -103,14 +128,13 @@ export default function StarRating({
         </tr>
       </table>
 
-      <div className='w-100 m-5'>
-        <h4 className='text-white mx-2'>Overall: </h4>
-        <div className='stars-gray mx-2'>
+      <div className='w-100 mx-4 my-3'>
+        <h4 className='text-white mx-2'>OVERALL: </h4>
+        <div id='overallStars'  className='stars-gray mx-2'>
           <div className='stars-yellow' style={starsOverallHandler()}></div>
         </div>
         {starsOverall.toFixed(1)}
       </div>
-
     </div>
   );
 }

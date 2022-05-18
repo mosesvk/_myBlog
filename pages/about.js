@@ -19,15 +19,15 @@ export default function About({ authors, posts, about: { frontMatter } }) {
       metaTitle={frontMatter.title}
       metaDescription={frontMatter.description}
     >
-      <PageHeaderBlock title={frontMatter.title} />
+      <PageHeaderBlock title={"About Me"} />
 
       <section>
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-10 text-center">
-              <h1 className='text-dark mb-5' dangerouslySetInnerHTML={{
+              {/* <h1 className='text-dark mb-5' dangerouslySetInnerHTML={{
                   __html: marked.parseInline(frontMatter.intro.title1),
-                }}></h1>
+                }}></h1> */}
               <h4
                 className="text-dark mb-0 italic"
                 dangerouslySetInnerHTML={{
