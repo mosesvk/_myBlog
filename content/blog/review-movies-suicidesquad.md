@@ -6,26 +6,25 @@ date: "2021-08-05T16:56:47+06:00"
 author: "Moses Kaumatule"
 categories: ["Reviews"]
 tags: ["Movies", "DC"]
+ratingPlot: 4.3
+ratingCharacter: 4.6
+ratingPace: 4.5
+ratingVisual: 4.7
+pros1: "Character Development is Flawless"
+pros2: "Visually Stunning. Music interacts well with most of the movie."
+pros3: "Idris Elba and, surprisingly, John Cena are powerhouses"
+cons1: "Distastful animal cruelty"
+cons2: "Harley Quinn felt pushed onto the movie. Margot Robbie was great but the utilization of her character felt off."
+cons3: ""
 ---
-
-Disclaimer: For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/sound. Remember this is just my personal, non-professional opinion...
-
-Category | Rating out of 10
------------- | ------------
-Plot | 9
-Character | 9.5
-Pace | 8.5
-Visuals/sound | 10
-
-> Overall Rating: 8.75/10
-<!-- <cite>My Rating</cite> -->
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Z1EbSXxrZ34
 " target="_blank" id="pointer"><img src="https://i.ytimg.com/vi/r41n7dOcEf0/maxresdefault.jpg" width="500" id="pointer"/></a>
 
 <h4 id='spoiler'>*** Spoiler Warning ***</h4>
 
-### James Gunn is unstoppable
+### James Gunn flawlessly engages you to ANY Character
+The list of characters and their abilities are underwhelming. But sinceaq
 
 ### Visually/Audibly Clean
 
@@ -34,9 +33,8 @@ Visuals/sound | 10
 ### Idris Elba & John Cena Show
 Peacemaker & Bloodsport stole the show. 
 
-![](https://c.tenor.com/OTD9Ujq_LkIAAAAd/the-suicide-squad-bloodsport.gif)
+![](https://64.media.tumblr.com/7a55ae4773dc6fd758a26df840070b5c/7908b34ad02baf52-bf/s540x810/6ce219a0170979d48451ebce7821bcd45b593f03.gifv)
 
-### Some mistastes
 
 ### Verdict
 
