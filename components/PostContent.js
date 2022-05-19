@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import StarRating from '@/components/StarRating';
+import CategoryRating from '@/components/CategoryRating';
 import { marked } from 'marked';
 
 const PostHeading = ({
@@ -16,7 +16,7 @@ const PostHeading = ({
   return (
     <div className='col-lg-8 post-content-block order-0 order-lg-2'>
       {ratingPlot && ratingCharacter && ratingPace && ratingVisual && (
-        <StarRating
+        <CategoryRating
           starsPlot={ratingPlot}
           starsCharacter={ratingCharacter}
           starsPace={ratingPace}
