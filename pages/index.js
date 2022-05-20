@@ -27,7 +27,7 @@ export default function Home({ authors, posts, banner, apikey }) {
             <Image src={codingBg} alt='code' layout='responsive'/>
           </div>
 
-          <Link href={`/categories/coding`} className='col-lg-6'>
+          <Link href={`/tags/marvel`} className='col-lg-6'>
             <a className='btn btn-primary mt-5' aria-label='View all posts'>
               <i className='me-2'>
                 <IconNewSection size={16} />
