@@ -9,28 +9,6 @@
       "link": "/blog/archive"
     },
     {
-      "name": "Coding",
-      "link": "/categories/coding",
-      "submenu": [
-        {
-          "name": "All",
-          "link": "/categories/coding"
-        },
-        {
-          "name": "Bootcamp",
-          "link": "/tags/coding-bootcamp"
-        },
-        {
-          "name": "Tips",
-          "link": "/tags/coding-tips"
-        },
-        {
-          "name": "Journey",
-          "link": "/tags/coding-life"
-        }
-      ]
-    },
-    {
       "name": "Reviews",
       "link": "/categories/reviews",
       "submenu": [

@@ -7,7 +7,7 @@ import { getPosts } from '@/libs/getPosts';
 import { getAuthors } from '@/libs/getAuthors';
 import { getSinglePage } from '@/libs/getSinglePage';
 import { IconNewSection } from '@tabler/icons';
-import codingBg from '../public/images/background/coding.jpg'
+import codingBg from '../public/images/background/marvelPoster.jpg'
 
 export default function Home({ authors, posts, banner, apikey }) {
   return (
@@ -32,7 +32,7 @@ export default function Home({ authors, posts, banner, apikey }) {
               <i className='me-2'>
                 <IconNewSection size={16} />
               </i>
-              View Coding Articles
+              View Marvel Reviews
             </a>
           </Link>
 

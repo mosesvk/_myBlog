@@ -5,8 +5,8 @@ description: "About Moses"
 #intro
 intro:
   title1: "About Me"
-  title2: "I am Software Developer in Utah. I'm here to share my experiences and appreciations in life. Feel free to skim through."
-  description: "This is a blog dedicated to Coding and Reviews. I review movies, tv shows, and books."
+  title2: "I love comic book and sci-fi movies and shows. I love anime. "
+  description: "This is a blog dedicated to Reviews & Ratings of the top sci-fi & Thriller Movies, Shows & Anime"
 
   # about images
   images:
