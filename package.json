@@ -13,6 +13,11 @@
     "cache-posts": "node scripts/cache-posts.js",
     "prepare": "husky install"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "git add cache/data"
+    }
+  },
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
