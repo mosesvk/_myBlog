@@ -7,7 +7,8 @@
       "@/config/*": ["config/*"],
       "@/utils/*": ["utils/*"],
       "@/data/*": ["data/*"],
-      "@/libs/*": ["libs/*"]
+      "@/libs/*": ["libs/*"],
+      "@/images/*": ["/public/images/*"]
     }
   }
 }

@@ -6,6 +6,8 @@ const CategoryRating = ({
   starsCharacter,
   starsPace,
   starsVisual,
+  pros, 
+  cons,
 }) => {
   // Star maximum
   const maxStars = 5;
@@ -14,6 +16,36 @@ const CategoryRating = ({
 
   return (
     <div className='rwd-table'>
+      <div className='m-2 font-weight-bold row '>
+        <div className='p-2 col-md text-green'>
+          <h5 className='m-0 bold'>HIGHLIGHTS:</h5>
+          <ul>
+            {pros.map((proItem, idx) => {
+              if (proItem != '') {
+                return (
+                  <li className='py-1 bold' key={idx}>
+                    {proItem}
+                  </li>
+                );
+              }
+            })}
+          </ul>
+        </div>
+        <div className='p-2 col-md text-red'>
+          <h5 className='m-0 bold'>LOWLIGHTS:</h5>
+          <ul>
+            {cons.map((conItem, idx) => {
+              if (conItem != '') {
+                return (
+                  <li className='py-1 bold' key={idx}>
+                    {conItem}
+                  </li>
+                );
+              }
+            })}
+          </ul>
+        </div>
+      </div>
       <table className='w-100'>
         <tr>
           <th>Category</th>
@@ -63,7 +95,6 @@ const CategoryRating = ({
           <StarRating readonly value={starsOverall.toFixed(1)} size={6} />
           {starsOverall.toFixed(1)}
         </div>
-
       </div>
     </div>
   );

@@ -21,9 +21,8 @@ cons3: ""
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Z1EbSXxrZ34
 " target="_blank" id="pointer"><img src="https://i.ytimg.com/vi/r41n7dOcEf0/maxresdefault.jpg" width="500" id="pointer"/></a>
 
-<h4 id='spoiler'>*** Spoiler Warning ***</h4>
-
 ### James Gunn flawlessly engages you to ANY Character
+![](https://static01.nyt.com/images/2021/08/06/arts/05suicide-squad1/05suicide-squad1-mediumSquareAt3X-v2.jpg)
 The list of characters and their abilities are underwhelming. But sinceaq
 
 ### Visually/Audibly Clean
