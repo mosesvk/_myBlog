@@ -399,11 +399,23 @@ h1 {
   color: $red!important
 }
 
-.flex {
-  display: flex;
-}
-
 .mx-2 {
   margin: 0 5px!important;
 }
 
+
+
+//Images to Display on main page
+.main-image-container {
+  width: 100%;
+
+  > div {
+    position: unset !important;
+  }
+}
+.main-image {
+  object-fit: contain;
+  width: 100% !important;
+  // position: relative !important;
+  // height: unset !important;
+}
