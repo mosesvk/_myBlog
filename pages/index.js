@@ -17,7 +17,6 @@ export default function Home({ banner }) {
 export async function getStaticProps() {
   return {
     props: {
-      // authors: getAuthors(),
       // posts: getPosts().slice(0, 6),
       banner: getSinglePage('content/_index.md'),
     },
