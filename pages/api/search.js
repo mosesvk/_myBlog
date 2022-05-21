@@ -7,7 +7,7 @@ export default (req, res) => {
 
   if (process.env.NODE_ENV === 'production') {
     // Fetch cache data
-    posts = require('../../components/cache/data').posts;
+    posts = require('../../cache/data').posts;
   } else {
     const blogDirFiles = fs.readdirSync(path.join('content/blog'));
     const blogs = blogDirFiles.filter((f) => f.includes('.md'));
