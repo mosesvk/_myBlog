@@ -12,7 +12,7 @@ export default function Post({
   return (
     <>
       <article className="card post-card h-100 border-0 bg-transparent">
-        <div className="card-body">
+        <div className="">
           <Link href={`/blog/${slug}`}>
             <a className="d-block" title={title}>
               <div className="post-image position-relative">
