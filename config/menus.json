@@ -32,8 +32,22 @@
       ]
     },
     {
-      "name": "Contact",
-      "link": "/contact"
+      "name": "Breakdowns",
+      "link": "/categories/breakdowns",
+      "submenu": [
+        {
+          "name": "All",
+          "link": "/categories/breakdowns"
+        },
+        {
+          "name": "Marvel",
+          "link": "/tags/marvel"
+        },
+        {
+          "name": "DC",
+          "link": "/tags/dc"
+        }
+      ]
     }
   ]
 }
