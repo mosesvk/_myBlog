@@ -1,12 +1,12 @@
-import Image from 'next/image'
-import Link from 'next/link'
+import Image from 'next/image';
+import Link from 'next/link';
 import { IconNewSection } from '@tabler/icons';
-import codingBg from '@/images/background/marvelPoster.jpg'
+import codingBg from '@/images/background/marvelPoster.jpg';
 import Carousel from './Carousel';
 
 const MainContent = () => {
   return (
-    <div className=''>
+    <div className='container'>
       <div className='grid lg:grid-cols-2 my-3'>
         <div className='post-image position-relative'>
           <Image
@@ -28,10 +28,10 @@ const MainContent = () => {
           </Link>
         </div>
       </div>
-      
+
       <div className='2xl:container 2xl:mx-auto 2xl:px-0 py-3 px-10'>
-          <Carousel />
-        </div>
+        <Carousel />
+      </div>
     </div>
   );
 };
