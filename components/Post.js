@@ -6,24 +6,25 @@ export default function Post({
     slug,
     frontMatter: { title, image },
   },
-  authors,
+  val,
 }) {
+
 
   return (
     <>
-      <article className="card post-card h-100 border-0 bg-transparent">
-        <div className="">
+      <article className='card post-card h-100 border-0 bg-transparent'>
+        <div className={val == 'carousel' ? 'w-2/3' : ''}>
           <Link href={`/blog/${slug}`}>
-            <a className="d-block" title={title}>
-              <div className="post-image position-relative">
+            <a className='d-block' title={title}>
+              <div className={`post-image position-relative`}>
                 <Image
-                  className="rounded"
+                  className='rounded'
                   src={image}
                   alt={title}
                   width={`1000`}
                   height={`800`}
-                  layout="responsive"
-                  placeholder="blur"
+                  layout='responsive'
+                  placeholder='blur'
                   blurDataURL={image}
                 />
               </div>
@@ -31,11 +32,10 @@ export default function Post({
           </Link>
 
           <Link href={`/blog/${slug}`}>
-            <a className="d-block" title={title}>
-              <h3 className="post-title mb-3">{title}</h3>
+            <a className='d-block' title={title}>
+              <h3 className='post-title mb-3'>{title}</h3>
             </a>
           </Link>
-
         </div>
       </article>
     </>

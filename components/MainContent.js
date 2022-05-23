@@ -8,14 +8,6 @@ const MainContent = ({recentPosts}) => {
   return (
     <div className='container'>
       <div className='grid lg:grid-cols-2 my-3'>
-        <div className='post-image position-relative'>
-          <Image
-            src={codingBg}
-            alt='code'
-            layout='responsive'
-            className={'rounded'}
-          />
-        </div>
         <div className='text-center my-3'>
           <h2>Marvel Studio Reviews/Breakdowns</h2>
           <Link href={`/tags/marvel`} className=''>

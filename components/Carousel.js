@@ -85,13 +85,13 @@ const Carousel = ({ recentPosts }) => {
     // Finally the image itself will be 100% of a parent div. Outer div is
     // set with position relative, so we can place our cotrol buttons using
     // absolute positioning on each side of the image.
-    <div className='flex justify-center xl:w-1/2 items-center'>
-      <div className='relative w-full'>
+    <div className='flex justify-center items-center'>
+      <div className='relative w-full xl:w-2/3'>
         <div className='carousel w-100'>
           {sliderControl(true)}
           {recentPosts.map((post, idx) => (
             <div className='w-full flex-shrink-0' key={idx} ref={refs[idx]}>
-              <Post post={post} key={idx} />
+              <Post post={post} key={idx} val={'carousel'} />
             </div>
           ))}
 
