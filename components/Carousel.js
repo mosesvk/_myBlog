@@ -1,9 +1,15 @@
 import { useState, createRef } from 'react';
+import Post from './Post';
 
+const images = [
+  'https://images.unsplash.com/photo-1506501139174-099022df5260?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1351&q=80',
+  'https://images.unsplash.com/photo-1523438097201-512ae7d59c44?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80',
+  'https://images.unsplash.com/photo-1513026705753-bc3fffca8bf4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80',
+];
 
-const images = ['https://images.unsplash.com/photo-1506501139174-099022df5260?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1351&q=80', 'https://images.unsplash.com/photo-1523438097201-512ae7d59c44?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80', 'https://images.unsplash.com/photo-1513026705753-bc3fffca8bf4?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80']
+const Carousel = ({ recentPosts }) => {
+  console.log(recentPosts);
 
-const Carousel = () => {
   // We will start by storing the index of the current image in the state.
   const [currentImage, setCurrentImage] = useState(0);
 
@@ -15,7 +21,7 @@ const Carousel = () => {
     return acc;
   }, {});
 
-  const scrollToImage = i => {
+  const scrollToImage = (i) => {
     // First let's set the index of the image we want to see next
     setCurrentImage(i);
     // Now, this is where the magic happens. We 'tagged' each one of the images with a ref,
@@ -60,34 +66,35 @@ const Carousel = () => {
   // Let's create dynamic buttons. It can be either left or right. Using
   // isLeft boolean we can determine which side we'll be rendering our button
   // as well as change its position and content.
-  const sliderControl = isLeft => (
+  const sliderControl = (isLeft) => (
     <button
-      type="button"
+      type='button'
       onClick={isLeft ? previousImage : nextImage}
       className={`${arrowStyle} ${isLeft ? 'left-2' : 'right-2'}`}
       style={{ top: '40%' }}
     >
-      <span role="img" aria-label={`Arrow ${isLeft ? 'left' : 'right'}`}>
+      <span role='img' aria-label={`Arrow ${isLeft ? 'left' : 'right'}`}>
         {isLeft ? '◀' : '▶'}
       </span>
     </button>
   );
 
   return (
-  // Images are placed using inline flex. We then wrap an image in a div
-  // with flex-shrink-0 to stop it from 'shrinking' to fit the outer div.
-  // Finally the image itself will be 100% of a parent div. Outer div is
-  // set with position relative, so we can place our cotrol buttons using
-  // absolute positioning on each side of the image.
-    <div className="p-12 flex justify-center w-screen md:w-1/2 items-center">
-      <div className="relative w-full">
-        <div className="carousel">
+    // Images are placed using inline flex. We then wrap an image in a div
+    // with flex-shrink-0 to stop it from 'shrinking' to fit the outer div.
+    // Finally the image itself will be 100% of a parent div. Outer div is
+    // set with position relative, so we can place our cotrol buttons using
+    // absolute positioning on each side of the image.
+    <div className='flex justify-center xl:w-1/2 items-center'>
+      <div className='relative w-full'>
+        <div className='carousel w-100'>
           {sliderControl(true)}
-          {images.map((img, i) => (
-            <div className="w-full flex-shrink-0" key={img} ref={refs[i]}>
-              <img src={img} className="w-full object-contain" />
+          {recentPosts.map((post, idx) => (
+            <div className='w-full flex-shrink-0' key={idx} ref={refs[idx]}>
+              <Post post={post} key={idx} />
             </div>
           ))}
+
           {sliderControl()}
         </div>
       </div>
@@ -96,3 +103,7 @@ const Carousel = () => {
 };
 
 export default Carousel;
+
+{
+  /* <img src={img} className="w-full object-contain" /> */
+}
