@@ -10,7 +10,6 @@ ratingPlot: 4.5
 ratingCharacter: 4.6
 ratingPace: 4.1
 ratingVisual: 4.7
-pros: "<p>Hello</p>"
 ---
 
 <p class='red'>Disclaimer: For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/music. Remember this is just my personal, non-professional opinion...</p>
