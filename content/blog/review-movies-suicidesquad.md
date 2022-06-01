@@ -13,7 +13,7 @@ ratingVisual: 4.7
 pros1: "Character Development is Flawless"
 pros2: "Visually Stunning. Music interacts well with most of the movie."
 pros3: "Idris Elba and, surprisingly, John Cena are powerhouses"
-cons1: "Distastful animal cruelty"
+cons1: "Distastful and Numb at times"
 cons2: "Harley Quinn felt pushed onto the movie. Margot Robbie was great but the utilization of her character felt off."
 cons3: ""
 ---
