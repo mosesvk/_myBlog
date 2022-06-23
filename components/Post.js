@@ -13,7 +13,7 @@ export default function Post({
   return (
     <>
       <article className='card post-card h-100 border-0 bg-transparent'>
-        <div className={val == 'carousel' ? 'w-2/3' : ''}>
+        <div className={val == 'carousel' ? 'w-full' : ''}>
           <Link href={`/blog/${slug}`}>
             <a className='d-block' title={title}>
               <div className={`post-image position-relative`}>
