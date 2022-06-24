@@ -9,11 +9,10 @@
       "link": "/blog/archive"
     },
     {
-      "name": "Reviews",
-      "link": "/categories/reviews",
+      "name": "Entertainment",
       "submenu": [
         {
-          "name": "All",
+          "name": "Review",
           "link": "/categories/reviews"
         },
         {
@@ -32,22 +31,22 @@
       ]
     },
     {
-      "name": "Breakdowns",
-      "link": "/categories/breakdowns",
+      "name": "Career",
+      "link": "/categories/coding",
       "submenu": [
         {
-          "name": "All",
-          "link": "/categories/breakdowns"
+          "name": "Coding Journey",
+          "link": "/categories/coding-journey"
         },
         {
-          "name": "Marvel",
-          "link": "/tags/marvel"
-        },
-        {
-          "name": "DC",
-          "link": "/tags/dc"
+          "name": "Learning Code",
+          "link": "/categories/learning-code"
         }
       ]
+    },
+    {
+      "name": "Top Favorites",
+      "link": "/categories/top-fav"
     }
   ]
 }
