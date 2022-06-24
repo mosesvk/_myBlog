@@ -26,7 +26,7 @@ export default function TagSingle({ authors, posts, category }) {
 
         <div className="row gy-5 gx-4 g-xl-5">
           {uniquePosts.map((post, i) => (
-            <div key={i} className="col-xl-4 col-6">
+            <div key={i} className="col-xl-4 col-12">
               <Post post={post} authors={authors} />
             </div>
           ))}
