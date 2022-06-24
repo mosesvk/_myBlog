@@ -45,8 +45,18 @@
       ]
     },
     {
-      "name": "Top Favorites",
-      "link": "/categories/top-fav"
+      "name": "Favorites",
+      "link": "/categories/favs",
+      "submenu": [
+        {
+          "name": "Top 5",
+          "link": "/categories/top-5"
+        },
+        {
+          "name": "Tier Lists",
+          "link": "/categories/tier-list"
+        }
+      ]
     }
   ]
 }

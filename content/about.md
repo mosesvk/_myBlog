@@ -5,8 +5,8 @@ description: "About Moses"
 #intro
 intro:
   title1: "About Me"
-  title2: "I love comic book and sci-fi movies and shows. I love anime. "
-  description: "This is a blog dedicated to Reviews & Ratings of the top sci-fi & Thriller Movies, Shows & Anime"
+  title2: "Software Developer who loves movies, anime, and coding."
+  description: "This blog is dedicated to my favorite things"
 
   # about images
   images:
