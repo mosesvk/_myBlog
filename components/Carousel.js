@@ -61,7 +61,7 @@ const Carousel = ({ recentPosts }) => {
 
   // Tailwind styles. Most importantly notice position absolute, this will sit relative to the carousel's outer div.
   const arrowStyle =
-    'absolute text-white text-2xl z-10 bg-black h-10 w-10 rounded-full opacity-75 flex items-center justify-center';
+    'absolute text-white text- z-10 bg-black h-10 w-10 rounded-full opacity-75 flex items-center justify-center';
 
   // Let's create dynamic buttons. It can be either left or right. Using
   // isLeft boolean we can determine which side we'll be rendering our button

@@ -1,5 +1,5 @@
 import Layout from '@/components/Layout';
-import BannerBlock from '@/components/Banner';
+import Banner from '@/components/Banner';
 import { getPosts } from '@/libs/getPosts';
 // import { getAuthors } from '@/libs/getAuthors';
 import { getSinglePage } from '@/libs/getSinglePage';
@@ -8,7 +8,7 @@ import MainContent from '@/components/MainContent';
 export default function Home({ banner, posts }) {
   return (
     <Layout>
-      <BannerBlock banner={banner} />
+      <Banner banner={banner} />
       <MainContent recentPosts={posts} />
     </Layout>
   );
