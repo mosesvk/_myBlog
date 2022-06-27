@@ -160,8 +160,10 @@
   @include desktop {
     .navbar-nav {
       max-width: 300px;
-      text-align: center;
+      text-align: left;
+      font-size: 1.5rem;
       padding-top: 20px;
+      padding-left: 3rem
     }
 
     .navbar-right {

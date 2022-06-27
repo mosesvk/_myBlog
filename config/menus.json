@@ -5,14 +5,14 @@
       "link": "/about"
     },
     {
-      "name": "Archive",
+      "name": "All Posts",
       "link": "/blog/archive"
     },
     {
       "name": "Entertainment",
       "submenu": [
         {
-          "name": "Review",
+          "name": "Reviews",
           "link": "/categories/reviews"
         },
         {
@@ -28,33 +28,47 @@
           "name": "Anime",
           "link": "/tags/anime"
         }
-      ]
-    },
-    {
-      "name": "Career",
-      "link": "/categories/coding",
-      "submenu": [
+        ,
         {
-          "name": "Coding Journey",
-          "link": "/categories/coding-journey"
-        },
-        {
-          "name": "Learning Code",
-          "link": "/categories/learning-code"
+          "name": "Favorites",
+          "link": "/tags/favorites"
         }
       ]
     },
     {
-      "name": "Favorites",
-      "link": "/categories/favs",
+      "name": "Coding",
+      "link": "/categories/coding",
       "submenu": [
         {
-          "name": "Top 5",
-          "link": "/categories/top-5"
+          "name": "All",
+          "link": "/categories/coding"
         },
         {
+          "name": "Coding Journey",
+          "link": "/tags/coding-journey"
+        },
+        {
+          "name": "Coding Tips",
+          "link": "/tags/coding-tips"
+        }
+      ]
+    },
+    {
+      "name": "Lifestyle",
+      "link": "/categories/lifestyle",
+      "submenu": [
+        {
+          "name": "All",
+          "link": "/categories/lifestyle"
+        },
+        {
+          "name": "Fatherhood",
+          "link": "/tags/Fatherhood"
+        }
+        ,
+        {
           "name": "Tier Lists",
-          "link": "/categories/tier-list"
+          "link": "/tags/tier-list"
         }
       ]
     }
