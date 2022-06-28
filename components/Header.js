@@ -5,12 +5,13 @@ import Link from 'next/link';
 import Menu from '@/config/menus.json';
 import Search from '@/components/Search';
 import { IconMenu2, IconX } from '@tabler/icons';
+import logoImg from '@/images/logo.svg'
 
 export default function Header() {
   const { toggleSearch } = useContext(AppContext);
   const [searchOpen, setSearchOpen] = toggleSearch;
   const router = useRouter();
-  const logo = '< mvk >'
+  const logo = logoImg
 
   useEffect(() => {
     // search close using Escape key
@@ -76,7 +77,7 @@ export default function Header() {
               <nav className="navbar navbar-expand-lg navbar-light p-0">
                 <Link href="/">
                   <a className="navbar-brand font-weight-bold d-flex mb-0">
-                    <h2>{logo}</h2>
+                    <img src={logoImg} alt='logo' />
                   </a>
                 </Link>
 

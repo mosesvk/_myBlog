@@ -10,6 +10,12 @@ ratingPlot: 4.5
 ratingCharacter: 4.6
 ratingPace: 4.1
 ratingVisual: 4.7
+pros1: "Visual Spectacle. Great picture and sound"
+pros2: "Great Character Development especially with Uzui"
+pros3: "Great Villain and backstory"
+cons1: "Slow start in the beginning"
+cons2: ""
+cons3: ""
 ---
 
 <p class='red'>Disclaimer: For all my Reviews, I follow four main categories: Plot, Character Cast/Development, Pace/Consistent, visuals/music. Remember this is just my personal, non-professional opinion...</p>
