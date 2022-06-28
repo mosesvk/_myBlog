@@ -18,7 +18,6 @@ ratingVisual: 4.7
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=t6MXHczeEqc
 " target="_blank" id="pointer"><img src="http://img.youtube.com/vi/t6MXHczeEqc/0.jpg" width="500" id="pointer"/></a>
 
-<h4 id='spoiler'>*** Spoiler Warning ***</h4>
 
 ### Lived up to the Hype
 Following the fantastic season 1 and amazing Mugen Train arc, the Entertainment arc continues to flourish with it's detailed story telling and flowing animation. This season, although only 11 episodes, adds a similar yet unique take on Tanjiro, Zenitsu, and Innosuke's journey. You can feel the tension with every episode building on the last. Although there a bits of pieces that could've been improved, this season as a whole delivers a meaningful and mind-bending experience. 
