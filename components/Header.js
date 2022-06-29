@@ -5,13 +5,12 @@ import Link from 'next/link';
 import Menu from '@/config/menus.json';
 import Search from '@/components/Search';
 import { IconMenu2, IconX } from '@tabler/icons';
-import logoImg from '@/images/logo.svg'
+import logoImg from '/public/images/logo.svg'
 
 export default function Header() {
   const { toggleSearch } = useContext(AppContext);
   const [searchOpen, setSearchOpen] = toggleSearch;
   const router = useRouter();
-  const logo = logoImg
 
   useEffect(() => {
     // search close using Escape key
