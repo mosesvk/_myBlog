@@ -9,7 +9,7 @@ const MainContent = ({recentPosts}) => {
     <div className='container'>
       <div className='lg:grid lg:grid-cols-2 my-3 '>
         <div className='text-center my-3 w-full'>
-          <h2 class='text-3xl'>Marvel Studio Reviews/Breakdowns</h2>
+          <h2 class='text-3xl'>Recent Article Posts</h2>
           <Link href={`/tags/marvel`} className=''>
             <a className='btn btn-primary mt-5' aria-label='View all posts'>
               <i className='me-2'>
