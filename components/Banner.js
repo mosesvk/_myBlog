@@ -2,7 +2,7 @@ import HeadSvg from './HeadSvg'
 
 export default function BannerBlock({ banner: { frontMatter } }) {
   return (
-    <section className="my-12 sm:my-8 banner">
+    <section className="my-28 sm:my-22 banner">
       <div className="container">
         <div className="row">
           <div className=" mx-auto text-center position-relative">
