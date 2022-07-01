@@ -6,6 +6,8 @@ import Menu from '@/config/menus.json';
 import Search from '@/components/Search';
 import { IconMenu2, IconX } from '@tabler/icons';
 // import logoImg from '/public/images/logo.png'
+import HeadSvg from './HeadSvg'
+
 
 export default function Header() {
   const { toggleSearch } = useContext(AppContext);
@@ -78,6 +80,7 @@ export default function Header() {
                 <Link href="/">
                   <a className="navbar-brand font-weight-bold d-flex mb-0">
                     <h3>{logoImg}</h3>
+                    <HeadSvg />
                   </a>
                 </Link>
 

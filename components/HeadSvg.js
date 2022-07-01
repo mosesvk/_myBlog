@@ -4,7 +4,7 @@ const HeadSvg = () => {
   return (
     <svg
       className='wave text-primary'
-      width='650'
+      width='450'
       fill='none'
       version='1.0'
       xmlns='http://www.w3.org/2000/svg'
