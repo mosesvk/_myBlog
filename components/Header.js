@@ -79,8 +79,9 @@ export default function Header() {
               <nav className="navbar navbar-expand-lg navbar-light p-0">
                 <Link href="/">
                   <a className="navbar-brand font-weight-bold d-flex mb-0">
-                    <h3>{logoImg}</h3>
+                    <h3>M</h3>
                     <HeadSvg />
+                    <h3>K</h3>
                   </a>
                 </Link>
 
